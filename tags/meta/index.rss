@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meta on A Hack&#39;s Code</title>
+    <link>https://foo-dogsquared.github.io/blog/tags/meta/</link>
+    <description>Recent content in meta on A Hack&#39;s Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>foo.dogsquared@gmail.com (Gabriel Arazas)</managingEditor>
+    <webMaster>foo.dogsquared@gmail.com (Gabriel Arazas)</webMaster>
+    <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright>
+    <lastBuildDate>Thu, 15 Aug 2019 18:10:07 +0800</lastBuildDate>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    
+        <atom:link href="https://foo-dogsquared.github.io/blog/tags/meta/index.rss" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>A site overhaul has occurred</title>
+      <link>https://foo-dogsquared.github.io/blog/posts/a-site-overhaul-has-occurred/</link>
+      <category>self</category>
+      <category>meta</category>
+      <pubDate>Thu, 15 Aug 2019 18:10:07 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/posts/a-site-overhaul-has-occurred/</guid>
+      <description>&lt;div id=&#34;preamble&#34;&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;ANNOUNCEMENT: A site overhaul has occurred. Please
+see the changelog. A site overhaul has occurred.
+Please see the changelog.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_from_jekyll_to_hugo&#34;&gt;From Jekyll to Hugo&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;First and foremost, the blog has moved from
+&lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.
+I could create a theme but it would take me way longer
+than should just to migrate the blog so for now I settled
+with the &lt;a href=&#34;https://themes.gohugo.io/hugo-theme-terminal/&#34;&gt;Terminal&lt;/a&gt;
+since I&amp;#8217;m starting to appreciate terminal-themed websites
+(also, I think it&amp;#8217;s easier for me to design a terminal-themed website
+if I have to create one).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I&amp;#8217;ve ported the blog to Hugo for multitude of reasons:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Speed&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ease of content management&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;More organized approach for my content&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Built-in support for blogging with &lt;a href=&#34;https://asciidoctor.org/&#34;&gt;Asciidoctor&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Built-in support for &lt;a href=&#34;https://asciidoctor.org/&#34;&gt;Asciidoctor&lt;/a&gt; although
+it&amp;#8217;s mostly done through calling external programs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Though Jekyll &lt;a href=&#34;https://asciidoctor.org/&#34;&gt;does have a plug-in for blogging with Asciidoctor&lt;/a&gt;,
+I don&amp;#8217;t really want another plug-in for that. I just want a
+static site generator with built-in support for blogging with Asciidoctor and
+Hugo just provides that. The speed and ease of configuration is
+also a really large bonus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_change_of_purpose&#34;&gt;Change of purpose&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The blog is in hiatus due to me taking notes in
+&lt;a href=&#34;https://www.latex-project.org/&#34;&gt;LaTeX&lt;/a&gt; now and a change of
+purpose for my blog. I already have a
+&lt;a href=&#34;https://github.com/foo-dogsquared/personal-notes/&#34;&gt;a storage for my notes&lt;/a&gt;
+and
+&lt;a href=&#34;https://github.com/foo-dogsquared/a-remote-repo-full-of-notes-of-things-i-do-not-know-about/&#34;&gt;another for my lecture/detailed notes&lt;/a&gt;
+so I don&amp;#8217;t see any point to make this as an all-around notes notebook.
+It&amp;#8217;s too repetitive to have it around so the vision for my blog
+has changed.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Here&amp;#8217;s what I think my online notes should be divided with these three
+outlets:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;My notes storage would be short/slightly detailed notes on random things.
+This is basically where my &lt;em&gt;Simplified!&lt;/em&gt;-type of notes should get in.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My lecture notes are where detailed studies of subjects or concepts
+should go.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My blog will be about&amp;#8230;&amp;#8203; I don&amp;#8217;t know, really. I do have a set of ideas that I
+think it&amp;#8217;s suitable for blogging about it so let&amp;#8217;s just find out along the
+way.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_blog_clean_up_and_revision&#34;&gt;Blog clean-up and revision&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Since the overall purpose of the blog has been changed, so does the little
+details that make up the blog.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I&amp;#8217;ve cleaned up my blog by removing most of the posts that I think it&amp;#8217;s not
+suitable for the blog anymore. The &lt;em&gt;Learnings and Resources&lt;/em&gt; series will be reset
+(starting this month) with a couple of revisions and improvement for the reading experience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The &lt;em&gt;Simplified!&lt;/em&gt; series is still going to be up and coming with revisions and a new
+style of technical writing. My &lt;a href=&#34;https://github.com/foo-dogsquared/personal-notes/&#34;&gt;personal notes&lt;/a&gt;
+is still going to have the style of &lt;em&gt;Simplified!&lt;/em&gt; series I was originally going for.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I&amp;#8217;ve been thinking about revising my writing style as well. I mostly view my
+current style as too verbose. I&amp;#8217;ve learned that it&amp;#8217;s became a
+pain to read for my future self if I were to revisit a concept/study again.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;With the revised writing style, I also want to improve my writing by adopting a new
+writing workflow. This is basically the stuff you would encounter in a high school
+writing class but I&amp;#8217;ve been less compliant with it over the last few posts (before the
+change).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The blog is under change and it&amp;#8217;s not suitable to be a student&amp;#8217;s notebook anymore and
+it goes on to my &lt;a href=&#34;https://github.com/foo-dogsquared/personal-notes/&#34;&gt;online&lt;/a&gt;
+&lt;a href=&#34;https://github.com/foo-dogsquared/a-remote-repo-full-of-notes-of-things-i-do-not-know-about/&#34;&gt;notes&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Along with the change of purpose is a change of style and presentation for my
+studies. Starting with the last quarter of the year is taking the more challenging route
+for improvement and hopefully this change reflect that as well.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Well, I still don&amp;#8217;t know how to end this post so have a nice day! :)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

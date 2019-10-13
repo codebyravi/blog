@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>freebies on A Hack&#39;s Code</title>
+    <link>https://foo-dogsquared.github.io/blog/tags/freebies/</link>
+    <description>Recent content in freebies on A Hack&#39;s Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>foo.dogsquared@gmail.com (Gabriel Arazas)</managingEditor>
+    <webMaster>foo.dogsquared@gmail.com (Gabriel Arazas)</webMaster>
+    <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright>
+    <lastBuildDate>Tue, 01 May 2018 09:25:57 +0800</lastBuildDate>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    
+        <atom:link href="https://foo-dogsquared.github.io/blog/tags/freebies/index.rss" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>A freebie&#39;s resource list (mostly related to programming)</title>
+      <link>https://foo-dogsquared.github.io/blog/posts/free-resource-list/</link>
+      <category>foss</category>
+      <category>freebies</category>
+      <pubDate>Tue, 01 May 2018 09:25:57 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/posts/free-resource-list/</guid>
+      <description>&lt;div id=&#34;preamble&#34;&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;quoteblock&#34;&gt;
+&lt;blockquote&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;UPDATE: This list is now deprecated. It&amp;#8217;ll recieve minimal maintenance,
+if there&amp;#8217;s any. Any new updates are now actively developed in my
+&lt;a href=&#34;http://freebies-hunt.netlify.com/&#34;&gt;new freebies resource site&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;This is a free resource list that gradually grew over the past few
+months. Admittedly, I don&amp;#8217;t use all of them so why not just share it,
+right?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Just pick a few, don&amp;#8217;t be overwhelmed by the number of resource you have
+to refer to. Focus on one thing at a time. Well, the list is actually
+longer but I decided to pick the top contenders of the list (and some of
+them are still not being used, I just like to bookmark stuff and never
+checking out again sometimes).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Do keep in mind, most of them are related to computer programming but
+some of the providers offer stuff outside of programming (say
+&lt;a href=&#34;https://khanacademy.org&#34;&gt;Khan Academy&lt;/a&gt; for math).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_other_resource_lists&#34;&gt;Other Resource Lists&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/sindresorhus/awesome&#34;&gt;awesome&lt;/a&gt; — &lt;strong&gt;(very much
+recommended)&lt;/strong&gt;; it&amp;#8217;s a curated list of lists; I guess you can say it&amp;#8217;s
+&lt;strong&gt;awesome&lt;/strong&gt;, mwehehehehehehehe&amp;#8230;&amp;#8203; 😎&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/math/comments/2mkmk0/a_compilation_of_useful_free_online_math_resources/&#34;&gt;A
+Compilation of Useful, Free, Online Math Resources from /r/math&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/&#34;&gt;List
+of websites, ebooks, downloads, etc. for mobile users and people too
+lazy to read the sidebar from /r/learnmath&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/free-stuff/500-free-things-on-the-internet-to-start-your-new-year-11ae72266b66&#34;&gt;This
+list on Medium&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/BestofSoftwares/comments/6084vh/list_of_the_best_free_things_online_everyone_can/&#34;&gt;List
+of the best free things online everyone can take advantage of on
+/r/BestOfSoftwares&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/learnprogramming/wiki/tools&#34;&gt;This specialized
+list for programming on Reddit&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/sdmg15/Best-websites-a-programmer-should-visit/&#34;&gt;Useful
+websites for programmers (by &lt;em&gt;sdmg15&lt;/em&gt; on GitHub)&lt;/a&gt; — also here&amp;#8217;s
+&lt;a href=&#34;https://dev.to/sahilrajput/useful-websites-for-programmers-36k#coding-practice-for-beginners&#34;&gt;an
+mirror article by &lt;em&gt;Sahil Rajput&lt;/em&gt; on dev.to&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/dargaCode/WebDevStudyResources&#34;&gt;Web Dev&amp;#8217;t Study
+Resources (by &lt;em&gt;dargaCode&lt;/em&gt; on GitHub)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_online_education_resources&#34;&gt;Online Education Resources&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://edex.adobe.com/en/professional-development/courses&#34;&gt;Adobe
+Education Exchange&lt;/a&gt; — free courses offered by Adobe and its community&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://brilliant.org&#34;&gt;Brilliant&lt;/a&gt; — kind of like those MOOC but they
+teach you through solving problems&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.codecademy.com/&#34;&gt;Codecademy&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cccoer.org/&#34;&gt;Community College Consortium for Open
+Educational Resources&lt;/a&gt; — you can find it
+&lt;a href=&#34;https://www.cccoer.org/learn/find-oer/&#34;&gt;here&lt;/a&gt; for the most part if you
+want the open educational resources (OER)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://coursera.org&#34;&gt;Coursera&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://cs50.harvard.edu/&#34;&gt;CS50 Course by Harvard University&lt;/a&gt; — &lt;strong&gt;(very
+much recommended)&lt;/strong&gt;; a very good introductory course on computer science
+in general, just take it easy and follow the schedule then you&amp;#8217;ll be
+fine; I also recommend to take it with friends or a study group too,
+much easier unlike the way I took 😥, but still doable with solo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://edx.org&#34;&gt;edX&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fast.ai/&#34;&gt;fast.ai&lt;/a&gt; — free courses on machine learning, ooooh
+yeah&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://freecodecamp.org&#34;&gt;freeCodeCamp&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;;
+project-based curriculum for web development&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ixl.com/&#34;&gt;IXL&lt;/a&gt; — an educational resource and learning site
+on K-12 curriculum&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://khanacademy.org&#34;&gt;Khan Academy&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;; there are
+also other topics outside of programming (i.e. mathematics, physics)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://learnxinyminutes.com&#34;&gt;Learn X in Y Minutes&lt;/a&gt; — a
+community-created repository of summaries for you to learn the X
+programming languages&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://learning.linkedin.com/&#34;&gt;LinkedIn Learning&lt;/a&gt; — eLearning platform
+of LinkedIn&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://mva.microsoft.com/&#34;&gt;Microsoft Virtual Academy&lt;/a&gt; — yup, Microsoft
+has their own learning platform&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/index.htm&#34;&gt;MIT OpenCourseWare&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;;
+contains courses from a lot of subjects; you also might want to check
+out their &lt;a href=&#34;https://ocw.mit.edu/courses/ocw-scholar/&#34;&gt;OCW Scholar Courses&lt;/a&gt;
+wherein they are essentially more in-depth versions of the usual courses&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://university.mongodb.com/&#34;&gt;MongoDB University&lt;/a&gt; — official courses
+from MongoDB&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://online.stanford.edu/courses&#34;&gt;Online Stanford Courses&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oercommons.org/&#34;&gt;Open Educational Resources&lt;/a&gt; —
+self-explanatory as to what their content is about&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://oyc.yale.edu/courses&#34;&gt;Open Yale Courses&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://scrimba.com/&#34;&gt;Scrimba&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;; videos with
+interactive code&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://everythingmaths.co.za/&#34;&gt;Siyavula&lt;/a&gt; — mathematics- and
+science-focused open educational resources&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.skillshare.com/&#34;&gt;SkillShare&lt;/a&gt; — almost like Udemy, almost
+like Udemy&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.teachengineering.org/&#34;&gt;Teach Engineering&lt;/a&gt; — well, it&amp;#8217;s a
+educational resources site containing engineering stuff&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theodinproject.com/&#34;&gt;The Odin Project&lt;/a&gt; — similar approach
+to freeCodeCamp&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tutorialspoint.com/index.htm&#34;&gt;Tutorials Point&lt;/a&gt; —
+&lt;strong&gt;(recommended)&lt;/strong&gt;; a good overview on a bunch of programming languages&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tutsplus.com/&#34;&gt;TutPlus&lt;/a&gt; — a bunch of tutorials and courses&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.udacity.com/&#34;&gt;Udacity&lt;/a&gt; —most, if not all courses are
+focused on technology&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://udemy.com&#34;&gt;Udemy&lt;/a&gt; — HINT: they are discounted for almost
+all-year round; I also recommend to only look out for the top courses
+since there&amp;#8217;s a lot of cluttering stuff in there&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.w3schools.com/&#34;&gt;W3Schools&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://mathworld.wolfram.com/&#34;&gt;Wolfram MathWorld&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_academics_focused_sites&#34;&gt;Academics-focused Sites&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.academia.edu/&#34;&gt;Academia.edu&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://brainly.com/&#34;&gt;Brainly&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;; for students and
+peer-to-peer engagement&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://mendeley.com/&#34;&gt;Mendeley&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.researchgate.net/&#34;&gt;Researchgate&lt;/a&gt; — most published studies
+under their platform are free to view&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_documentations&#34;&gt;Documentations&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://devdocs.io/&#34;&gt;DevDocs&lt;/a&gt; — &lt;strong&gt;(very much recommended)&lt;/strong&gt;; a site
+wherein official documentation of different languages can be found;
+there&amp;#8217;s also an offline version of it if you are lacking of internet
+speed (like me)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.gitbook.com/&#34;&gt;GitBook&lt;/a&gt; — easier finding for documentations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/&#34;&gt;MDN Web Docs&lt;/a&gt; — &lt;strong&gt;(very much
+recommended)&lt;/strong&gt;; if you&amp;#8217;re trying to learn web development and programming
+in general, this can be a hub for it&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_books&#34;&gt;Books&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://aosabook.org/en/index.html&#34;&gt;The Architecture on Open Source
+Applications&lt;/a&gt; — A bundle of books that are free to read online&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://algorithms.wtf/&#34;&gt;Algorithms (by &lt;em&gt;Jeff Erickson&lt;/em&gt;)&lt;/a&gt; — it&amp;#8217;s a good
+book on algorithms (though not recommended as a first book on data
+structures and algorithms)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.bccampus.ca/&#34;&gt;BC Campus Open Ed Open Textbook Database&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://bookboon.com/&#34;&gt;Bookboon&lt;/a&gt; — offers premium books as well&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://mfleck.cs.illinois.edu/building-blocks/&#34;&gt;Building Blocks for
+Theoretical Computer Science&lt;/a&gt; — self-explanatory title is
+self-explanatory&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://betterexplained.com/calculus/&#34;&gt;Calculus (by &lt;em&gt;Kalid Azad&lt;/em&gt; from
+&lt;em&gt;Better Explained&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://freecomputerbooks.com&#34;&gt;Free Computer Books&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/EbookFoundation/free-programming-books&#34;&gt;Free
+Programming Books&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;; a GitHub repo by the E-Book
+Foundation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/EbookFoundation/free-science-books&#34;&gt;Free Science
+Books&lt;/a&gt; — another GitHub repo by the E-Book Foundation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://gameprogrammingpatterns.com&#34;&gt;Game Programming Patterns&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://greenteapress.com/wp/&#34;&gt;Green Tea Press&lt;/a&gt; — free computer
+science-related ebooks&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://htdp.org/&#34;&gt;How to Design Programs, 2nd Edition (HTML version)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ptolemy.berkeley.edu/books/leeseshia/download.html&#34;&gt;Introduction
+to Embedded Systems, 2nd Edition (2017, Lee and Seshia)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://inventwithpython.com/&#34;&gt;Invent with Python&lt;/a&gt; — A collection of
+free Python online books authored by Al Sweigart&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://learnyouahaskell.com/&#34;&gt;Learn You A Haskell&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://math.wikia.com/wiki/Math_Wiki&#34;&gt;Math Wiki&lt;/a&gt; — well, it is
+structured like a textbook and it is said that the Math Wiki is a
+textbook so there&amp;#8217;s that&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://mitpress.mit.edu/mit-press-open&#34;&gt;MIT Press Open&lt;/a&gt; — yes, free
+and open access books from MIT Press&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://book.goalkicker.com/&#34;&gt;Notes for Professionals&lt;/a&gt; — &lt;strong&gt;(very much
+recommended)&lt;/strong&gt;; made by folks at Stack Overflow from the Stack Overflow
+documentation for variety of languages and despite the title, it is
+quite helpful for beginners like me, as well; also, it is frequently
+updated like once per week&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://opendatastructures.org/&#34;&gt;Open Data Structures&lt;/a&gt; — offers book&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://openlibrary.org/&#34;&gt;Open Library&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://textbooks.opensuny.org/&#34;&gt;Open SUNY Textbooks&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.umn.edu/opentextbooks&#34;&gt;Open Textbook Library&lt;/a&gt; —
+&lt;strong&gt;(recommended)&lt;/strong&gt;; same as OpenStax&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://cnx.org/&#34;&gt;OpenStax CNX&lt;/a&gt; — a database of open educational
+resources&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://openstax.org/&#34;&gt;OpenStax&lt;/a&gt; — &lt;strong&gt;(very much recommended in
+sciences)&lt;/strong&gt;; a library of open-licensed expert-curated college textbook
+and resources&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://divakarvi.github.io/bk-spca/spca.html&#34;&gt;Scientific Programming
+and Computer Architecture&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://sarabander.github.io/sicp/&#34;&gt;Structure and Interpretation of
+Computer Programs, 2nd Edition (HTML version)&lt;/a&gt; — unofficial (and
+prettier) version of
+&lt;a href=&#34;https://mitpress.mit.edu/sites/default/files/sicp/index.html&#34;&gt;one of
+MIT&amp;#8217;s famous programming book (that can also be found online)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.feynmanlectures.caltech.edu/&#34;&gt;The Feynman&amp;#8217;s Lectures on
+Physics&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wikitolearn.org/&#34;&gt;WikiToLearn&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_katas_practice_sites&#34;&gt;Katas (Practice Sites)&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://old.reddit.com/r/dailyprogrammer/&#34;&gt;/r/dailyprogrammer&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://coderbyte.com&#34;&gt;Coderbyte&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://codewars.com/&#34;&gt;Codewars&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://projecteuler.net/&#34;&gt;Euler Project&lt;/a&gt; — &lt;strong&gt;(recommended, if you want
+to be more challenged)&lt;/strong&gt;; has more focus on applying mathematical
+concepts than programming&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://exercism.io&#34;&gt;Exercism&lt;/a&gt; — a site that focuses improving you
+through the mentor-mentee model&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://hackerrank.com/&#34;&gt;HackerRank&lt;/a&gt; — &lt;strong&gt;(recommended, if you want to be
+more challenged)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pramp.com/&#34;&gt;Pramp&lt;/a&gt; — you get to practice some programming
+interview questions and it&amp;#8217;s free&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_articles&#34;&gt;Articles&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.brainpickings.org&#34;&gt;Brain Pickings&lt;/a&gt; — it&amp;#8217;s about whatever
+your brain might be piqued to&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dev.to/&#34;&gt;Dev.to&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.explainthatstuff.com/&#34;&gt;Explain That Stuff&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.geeksforgeeks.org/&#34;&gt;GeeksforGeeks&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;; a
+computer science portal (for geeks)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/&#34;&gt;Medium&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://preadr.com/&#34;&gt;Preadr&lt;/a&gt; — an article link collector collecting
+articles related to your configured interests&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://scratchapixel.com/&#34;&gt;Scratch A Pixel&lt;/a&gt; — a list of articles on
+computer graphics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wikipedia.org/&#34;&gt;Wikipedia&lt;/a&gt; — if you want to learn random
+things&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_communities&#34;&gt;Communities&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.codenewbie.org/&#34;&gt;CodeNewbie&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.codingblocks.net/&#34;&gt;Coding Blocks&lt;/a&gt; — they also have a
+podcast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dev.to/&#34;&gt;Dev.to&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;; beginner-friendly&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://forum.freecodecamp.org&#34;&gt;freeCodeCamp Community&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt; &lt;strong&gt;(of course)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://news.ycombinator.com/&#34;&gt;HackerNews&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/coding/&#34;&gt;Reddit /r/coding&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/learnprogramming/&#34;&gt;Reddit /r/learnprogramming&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://stackoverflow.com&#34;&gt;Stack Overflow&lt;/a&gt; — look for the whole Meta
+Exchange network if you want to visit more communities other than Stack
+Overflow&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_podcasts&#34;&gt;Podcasts&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.codenewbie.org/basecs&#34;&gt;BaseCS&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.codenewbie.org/podcast&#34;&gt;CodeNewbie Podcast&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.codingblocks.net/category/podcast/&#34;&gt;Coding Blocks Podcast&lt;/a&gt;
+— great for beginners&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://collegeinfogeek.com/cast/&#34;&gt;College Info Geek Podcast&lt;/a&gt; — not
+related to programming; a good refresher about a variety of stuff&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://devchat.tv/&#34;&gt;DevChat&lt;/a&gt; — a list of podcast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://developertea.simplecast.fm/&#34;&gt;Developer Tea&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://syntax.fm/&#34;&gt;Syntax&lt;/a&gt; — &lt;strong&gt;(recommended if you&amp;#8217;re into web dev&amp;#8217;t)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.programmingthrowdown.com/&#34;&gt;Programming Throwdown&lt;/a&gt; —
+beginner-friendly&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://realtalkjavascript.simplecast.fm/&#34;&gt;Real Talk JavaScript&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://softskills.audio/&#34;&gt;Soft Skills Engineering&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;;
+it&amp;#8217;s a podcast series about the things that relate to software
+engineering that are not mostly coding-related&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youarenotsosmart.com/podcast/&#34;&gt;You Are Not So Smart&lt;/a&gt; — it&amp;#8217;s a
+podcast series about exploring self-delusions and some psychological
+stuff and I really like psychological stuff so that&amp;#8217;s why it&amp;#8217;s here&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_blogs&#34;&gt;Blogs&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_learning&#34;&gt;Learning&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://calnewport.com/&#34;&gt;Cal Newport&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://collegeinfogeek.com/&#34;&gt;College Info Geek&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://scotthyoung.com/&#34;&gt;Scott Young&lt;/a&gt; — a blog that mainly focuses on
+learning&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_programming&#34;&gt;Programming&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.codinghorror.com/&#34;&gt;Coding Horror&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://css-tricks.com/&#34;&gt;CSS Tricks&lt;/a&gt; — a blog that focuses on
+front-end development&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://sivers.org/&#34;&gt;Derek Sivers&lt;/a&gt; — a blog from a guy who had a lot
+of things to say on a lot of topics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://flaviocopes.com/&#34;&gt;Flavio Copes&lt;/a&gt; — another blog that focuses on
+front-end development&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jeremykun.com/&#34;&gt;Jeremy Kun&lt;/a&gt; — a programmer with a focus on
+mathematics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.joelonsoftware.com&#34;&gt;Joel On Software&lt;/a&gt; — a software-related
+blog from Joel Spolsky, the CEO from Stack Overflow&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://codeblog.jonskeet.uk/&#34;&gt;Jon Skeet&amp;#8217;s Coding Blog&lt;/a&gt; — Jon Skeet&amp;#8217;s
+blog; * insert Jon Skeet fact here *&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://joshuapullen.com/blog/&#34;&gt;Joshua Pullen&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://hacks.mozilla.org/&#34;&gt;Mozilla Hacks&lt;/a&gt; — mainly focuses on web
+development progress&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.scottlogic.com/&#34;&gt;Scott Logic&lt;/a&gt; — it&amp;#8217;s a blog that focuses
+on a broad spectrum of stuff&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://webapplog.com/&#34;&gt;webapplog&lt;/a&gt; — mainly focuses on Node.js&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wesbos.com/blog/&#34;&gt;Wes Bos&lt;/a&gt; — creator of several courses and
+some helpful posts along the way&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_newsletter&#34;&gt;Newsletter&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://frontendfoc.us/&#34;&gt;Frontend Focus&lt;/a&gt; — another weekly newsletter
+about front-end development&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://gamedevjsweekly.com/&#34;&gt;Gamedev.js Weekly&lt;/a&gt; — weekly newsletter
+about HTML5 Game Development&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://javascriptweekly.com/&#34;&gt;JavaScript Weekly&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://nodeweekly.com/&#34;&gt;Node Weekly&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://newsletter.nodejs.org/&#34;&gt;Official Node.js Weekly Newsletter&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://postanly.ongoodbits.com/&#34;&gt;Postanly&lt;/a&gt; — a weekly digest of
+productivity life articles&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://pycoders.com/&#34;&gt;Pycoders Weekly&lt;/a&gt; — a weekly newsletter on Python&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_youtube_channel&#34;&gt;YouTube Channel&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/user/crashcourse/&#34;&gt;Crash Course&lt;/a&gt; —
+&lt;strong&gt;(recommended)&lt;/strong&gt;; a YouTube channel that specializes in introducing you
+to a lot of concepts and subjects such as computers, sciences, and
+computer science&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ&#34;&gt;DevTips&lt;/a&gt; —
+&lt;strong&gt;(recommended)&lt;/strong&gt;; beginner-friendly&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCVk8weS4S2kJfja72fTxh5A&#34;&gt;freeCodeCamp
+Talks&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ&#34;&gt;freeCodeCamp&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q&#34;&gt;Fun Fun
+Function&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;; your metaphorical caffeine every Monday&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA&#34;&gt;Jarvis
+Johnson&lt;/a&gt; — comedy channel with a slight focus on tech&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g&#34;&gt;Khan Academy&lt;/a&gt;
+— videos on various academic topics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw&#34;&gt;LearnCode.academy&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/user/LevelUpTuts/&#34;&gt;LevelUpTuts&lt;/a&gt; —
+&lt;strong&gt;(recommended)&lt;/strong&gt;; a beginner-friendly channel that mostly contains
+tutorials and introductions on various topics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w&#34;&gt;Majorprep&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/user/mozhacks&#34;&gt;Mozilla Hacks&lt;/a&gt; — web video
+series &#34;Web Demystified&#34;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ&#34;&gt;patrickJMT&lt;/a&gt; —
+focuses on mathematics so if you want to learn math through YouTube,
+here is one channel that specializes on it&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg&#34;&gt;Professor
+Leonard&lt;/a&gt; — a YouTube channel that focuses on giving topics on calculus&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw&#34;&gt;The Coding
+Train&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/user/Vsauce&#34;&gt;Vsauce&lt;/a&gt; — need to say more?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA&#34;&gt;Wes Bos&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_operating_systems_yes_some_of_them_are_free&#34;&gt;Operating Systems (yes, some of them are free)&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_windows_10_i_guess_it_is_free_now_also_recommended&#34;&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/software-download/windows10ISO&#34;&gt;Windows 10&lt;/a&gt; &lt;strong&gt;(I guess it is free now, also recommended)&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_linux_overwhelming_majority_of_them_are_free_and_open_source&#34;&gt;Linux — overwhelming majority of them are free and open source&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt; — not recommended for beginners&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://fedoraproject.org/&#34;&gt;Fedora&lt;/a&gt; — kind of similar to Ubuntu&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linuxmint.com/&#34;&gt;Linux Mint&lt;/a&gt; — &lt;strong&gt;(recommended for
+beginners)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://manjaro.org/&#34;&gt;Manjaro&lt;/a&gt; — another one of the beginner-friendly
+distro&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.opensuse.org/&#34;&gt;OpenSUSE&lt;/a&gt; — available in two distinct
+versions: Tumbleweed and Leap&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://getsol.us/&#34;&gt;Solus&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://ubuntu.com/&#34;&gt;Ubuntu&lt;/a&gt; — &lt;strong&gt;(recommended for beginners)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_programming_tools&#34;&gt;Programming Tools&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_offline_ide&#34;&gt;Offline IDE&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.eclipse.org/&#34;&gt;Eclipse&lt;/a&gt; — Linux alternative; also has
+Windows version&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;Jetbrains&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;; has an
+assortment of tools for different programming languages and environment;
+also has support for students so you can apply for an educational pack,
+if you&amp;#8217;re eligible&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.visualstudio.com/&#34;&gt;Visual Studio (IDE)&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;;
+Windows-only&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_online_ide&#34;&gt;Online IDE&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://codeanywhere.com/&#34;&gt;Codeanywhere&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://codesandbox.io/&#34;&gt;CodeSandbox&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;; really acts
+as a solid online alternative in case you want to work on the go
+(mostly, for JavaScript-oriented web development)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://codepen.io&#34;&gt;Codepen&lt;/a&gt; — focuses on the front-end dev&amp;#8217;t&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://repl.it/&#34;&gt;Repl.it&lt;/a&gt; — has stronger support for a back-end dev&amp;#8217;t&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_text_editors&#34;&gt;Text Editors&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;Atom&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.vim.org/&#34;&gt;Vim&lt;/a&gt; — I have no words for this, yet&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual Studio Code&lt;/a&gt; — &lt;strong&gt;(very much
+recommended)&lt;/strong&gt;; platform-agnostic (found on Windows, Mac, &amp;amp; Linux)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_web_browsers&#34;&gt;Web Browsers&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/firefox/developer/all/&#34;&gt;Firefox
+Developer Edition&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/firefox/all/&#34;&gt;Firefox&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/chrome/browser/beta.html&#34;&gt;Google Chrome Beta&lt;/a&gt; —
+slight alternative for Google Canary&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/chrome/browser/canary.html&#34;&gt;Google Chrome
+Canary&lt;/a&gt; — Windows-only&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/intl/en/chrome/&#34;&gt;Google Chrome&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_communication&#34;&gt;Communication&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://discordapp.com/&#34;&gt;Discord&lt;/a&gt; — client messenger&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://pidgin.im/&#34;&gt;Pidgin&lt;/a&gt; — also a client messenger&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://slack.com/&#34;&gt;Slack&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;; a very good chat client
+between teams&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.thunderbird.net/en-US/&#34;&gt;Thunderbird&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;;
+e-mail client&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_productivity_tools&#34;&gt;Productivity Tools&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://asoftmurmur.com/&#34;&gt;A Soft Murmur&lt;/a&gt; — an ambient noise generator
+with a lot more sounds than rain&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://lastpass.com&#34;&gt;LastPass&lt;/a&gt; — cloud password manager&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://medleytext.net/&#34;&gt;MedleyText&lt;/a&gt; — Evernote but targeted towards
+developers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.notion.so/?r=ed358a0e3f6d4e47a5db21a17beaa7dd&#34;&gt;Notion&lt;/a&gt; —
+distraction-free app for taking notes in Markdown&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.rainymood.com/&#34;&gt;Rainy Mood&lt;/a&gt; — lets you focus through the
+ambience (if you&amp;#8217;re the type who find rain to be relaxing)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://trello.com&#34;&gt;Trello&lt;/a&gt; — a project management tool&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_others&#34;&gt;Others&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://calibre-ebook.com/&#34;&gt;Calibre&lt;/a&gt; — an e-book library management
+tool&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_mathematical_tools&#34;&gt;Mathematical Tools&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.fxsolver.com/&#34;&gt;fxSolver&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.geogebra.org/&#34;&gt;Geogebra&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mathway.com/Algebra&#34;&gt;Mathway&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.symbolab.com/&#34;&gt;Symbolab&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_platforms_for_your_future_apps&#34;&gt;Platforms For Your Future Apps&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://bitbucket.org/&#34;&gt;BitBucket&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/free/&#34;&gt;Amazon Web Services (AWS) — Free Tier&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;; yeah&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/&#34;&gt;GitLab&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://heroku.com/&#34;&gt;Heroku&lt;/a&gt; — &lt;strong&gt;(recommended, if you&amp;#8217;re starting)&lt;/strong&gt;;
+pretty much free&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/free/&#34;&gt;Microsoft Azure — Free Tier&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://netlify.com/&#34;&gt;Netlify&lt;/a&gt; — &lt;strong&gt;(recommended)&lt;/strong&gt;; their free options is
+pretty much amazing&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_stock_resources&#34;&gt;Stock Resources&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_images&#34;&gt;Images&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pexels.com/&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pixabay.com/&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_fonts&#34;&gt;Fonts&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.1001fonts.com/&#34;&gt;1001 Fonts&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.fontsquirrel.com/&#34;&gt;Font Squirrel&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.losttype.com/&#34;&gt;Lost Type&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_other_stuff&#34;&gt;Other Stuff&lt;/h3&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.canva.com/&#34;&gt;Canva&lt;/a&gt; — why not create your own creative
+designs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://coolors.co/&#34;&gt;Coolors&lt;/a&gt; — &lt;strong&gt;(recommended, if you are in design)&lt;/strong&gt;;
+color scheme generator&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://creativemarket.com/&#34;&gt;Creative Market&lt;/a&gt; — free creative stuff
+weekly&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_content_delivery_networks_cdn&#34;&gt;Content Delivery Networks (CDN)&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://cdnjs.com/&#34;&gt;cdnjs&lt;/a&gt; — &lt;strong&gt;(recommended, if you&amp;#8217;re in web dev&amp;#8217;t)&lt;/strong&gt;;
+CDN for web-related libraries&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloudinary.com/&#34;&gt;Cloudinary&lt;/a&gt; — mostly images and video CDN;
+also has image and video manipulation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.staticaly.com/&#34;&gt;Staticaly&lt;/a&gt; — CDN that serves files from
+different repo (BitBucket, GitLab, GitHub, and even GitHub gists) with
+the proper headers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://uploadcare.com/&#34;&gt;UploadCare&lt;/a&gt; — image CDN with image
+manipulation on-the-fly&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_student_packs&#34;&gt;Student Packs&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.autodesk.com&#34;&gt;Autocad&lt;/a&gt; — offers free years of the premium
+version of their products&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://education.github.com/pack/&#34;&gt;GitHub Educational Pack&lt;/a&gt; —
+assortment of benefits like unlimited private repositories on their own
+site, free domain name for a year, and free premium boosts on more sites&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jetbrains.com/student/&#34;&gt;JetBrain Student Pack&lt;/a&gt; — offers
+free licenses for their tools like
+&lt;a href=&#34;https://www.jetbrains.com/clion&#34;&gt;CLion&lt;/a&gt;,
+&lt;a href=&#34;https://www.jetbrains.com/webstorm&#34;&gt;WebStorm&lt;/a&gt;, and
+&lt;a href=&#34;https://www.jetbrains.com/idea&#34;&gt;IntelliJ IDEA Ultimate&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/education/students&#34;&gt;Microsoft Student
+Pack&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_miscellaneous&#34;&gt;Miscellaneous&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.codinghorror.com/a-pragmatic-quick-reference/&#34;&gt;A Pragmatic
+Quick Reference&lt;/a&gt; — it&amp;#8217;s a collection of wisdoms put together in a list
+from the Coding Horror&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://archive.org/&#34;&gt;Archive&lt;/a&gt; — it&amp;#8217;s an archive site for everything,
+it seems; you can find a lot of stuff in there&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.class-central.com/&#34;&gt;Class Central&lt;/a&gt; — a search engine for
+courses at different MOOC sites&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/kamranahmedse/developer-roadmap&#34;&gt;Developer Roadmap
+(by kamranahmedse)&lt;/a&gt; — &lt;strong&gt;(very much recommended)&lt;/strong&gt;; your reference in case
+you want to choose a specific role in software development (mine is more
+on the back-end development)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dev.tube&#34;&gt;DevTube&lt;/a&gt; — YouTube for developers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://distrowatch.com/&#34;&gt;Distrowatch&lt;/a&gt; — &lt;strong&gt;(recommended, if you&amp;#8217;re into
+Linux)&lt;/strong&gt;; website watching for updates around Linux distros&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://keepachangelog.com/en/1.0.0/&#34;&gt;Keep A Changelog&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.keyvalues.com/&#34;&gt;keyvalues&lt;/a&gt; — it&amp;#8217;s a engineering job finder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://localhackday.mlh.io/&#34;&gt;Local Hackday MLH (Major League Hacking)&lt;/a&gt;
+— it&amp;#8217;s a global hackathon (that are related to MLH) finder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mooc-list.com/&#34;&gt;MOOC List&lt;/a&gt; — similar to Class Central&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.openculture.com/&#34;&gt;Open Culture&lt;/a&gt; — a site that provides open
+content and resources&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensource.com/&#34;&gt;Open Source&lt;/a&gt; — a site that talks all open
+source things&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;\* - &lt;em&gt;if you&amp;#8217;re on a Windows OS, probably you&amp;#8217;re locked out of the
+option to download the ISO directly, to download it directly, you have
+to change the user profile from your browser usually, you can do that by
+going into &#39;Responsive Design Mode&#39; (Ctrl + Shift + M) on Firefox (or
+anything similar to Chrome and other browsers) and choosing a
+non-Windows device (choose an Apple product for easy choices) and you
+shall see that the page will reload and the layout will change&lt;/em&gt; OR you
+can just download a browser extension to change your User Agent&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

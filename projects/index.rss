@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on A Hack&#39;s Code</title>
+    <link>https://foo-dogsquared.github.io/blog/projects/</link>
+    <description>Recent content in Projects on A Hack&#39;s Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>foo.dogsquared@gmail.com (Gabriel Arazas)</managingEditor>
+    <webMaster>foo.dogsquared@gmail.com (Gabriel Arazas)</webMaster>
+    <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    
+        <atom:link href="https://foo-dogsquared.github.io/blog/projects/index.rss" rel="self" type="application/rss+xml" />
+    
+    
+    
+  </channel>
+</rss>

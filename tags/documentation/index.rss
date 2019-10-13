@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>documentation on A Hack&#39;s Code</title>
+    <link>https://foo-dogsquared.github.io/blog/tags/documentation/</link>
+    <description>Recent content in documentation on A Hack&#39;s Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>foo.dogsquared@gmail.com (Gabriel Arazas)</managingEditor>
+    <webMaster>foo.dogsquared@gmail.com (Gabriel Arazas)</webMaster>
+    <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright>
+    <lastBuildDate>Sat, 28 Sep 2019 20:29:58 +0800</lastBuildDate>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    
+        <atom:link href="https://foo-dogsquared.github.io/blog/tags/documentation/index.rss" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>What is effective documentation</title>
+      <link>https://foo-dogsquared.github.io/blog/posts/what-is-effective-documentation/</link>
+      <category>writing</category>
+      <category>documentation</category>
+      <pubDate>Sat, 28 Sep 2019 20:29:58 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/posts/what-is-effective-documentation/</guid>
+      <description>&lt;div id=&#34;preamble&#34;&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I&amp;#8217;m beginning to be more oriented on technical writing.
+In fact, I&amp;#8217;m starting to consider to take on technical writing as a career.
+So I ask myself related to the very thing that makes me appreciate technical writing: documentation.
+That question is &#34;What is effective documentation?&#34;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;As I remember from &lt;a href=&#34;https://www.youtube.com/watch?v=BAJ8F7yQz64&#34;&gt;a presentation&lt;/a&gt;, there&amp;#8217;s this quote that rings very well.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;quoteblock&#34;&gt;
+&lt;blockquote&gt;
+Documentation is the “curb appeal” of your software.
+&lt;/blockquote&gt;
+&lt;div class=&#34;attribution&#34;&gt;
+&amp;#8212; Dan Allen&lt;br&gt;
+&lt;cite&gt;Antora: Documentation Sites for Software Teams&lt;/cite&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Despite the saying, it applies to all types of projects.
+It is the &#34;curb appeal&#34; of your project.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Let&amp;#8217;s take a shallow dive on the deep ocean of documentation and inspect what I think mainly builds it: technical writing and typography.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_importance_of_technical_writing&#34;&gt;Importance of technical writing&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Technical writing is an often-overlooked process for open source programs.
+This is reflected in &lt;a href=&#34;https://opensourcesurvey.org/2017/&#34;&gt;GitHub&amp;#8217;s 2017 survey on open source&lt;/a&gt; (which is the latest version as of 2019-09-20) where incomplete and/or confusing documentation is the biggest hurdle.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;What&amp;#8217;s common among successful software projects like &lt;a href=&#34;https://asciidoctor.org/&#34;&gt;Asciidoctor&lt;/a&gt;, &lt;a href=&#34;https://reactjs.org/&#34;&gt;React&lt;/a&gt;, &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;, &lt;a href=&#34;https://laravel.com/&#34;&gt;Laravel&lt;/a&gt;, &lt;a href=&#34;https://www.mozilla.org/en-US/firefox/&#34;&gt;Firefox&lt;/a&gt;, &lt;a href=&#34;https://www.latex-project.org/&#34;&gt;LaTeX&lt;/a&gt;, &lt;a href=&#34;https://www.google.com/chrome/browser/index.html&#34;&gt;Chrome&lt;/a&gt;, and &lt;a href=&#34;https://www.archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt; is the accessible and thorough documentation that describes enough details for the new and the seasoned users.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;As such, one of the leading importance of technical writing is &lt;strong&gt;communication&lt;/strong&gt;.
+Without the work of technical writing means no communication.
+Non-existent communication means no incentive to look for your project.
+It&amp;#8217;s that simple.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The documentation is where the first impression lies for your potential users.
+Despite the saying of judging the book by its cover, the documentation can reflect the quality of the project.
+Having non-existent or bad documentation gives the impression that your project is bad no matter how well-crafted or optimized your code.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The documentation is also where the lasting impression goes for the veterans and potential contributors.
+If the users see the project docs is working as intended and well-maintained then it&amp;#8217;s more likely for them to participate and contribute through bug issues and code improvements.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;If you&amp;#8217;re learning another framework or a tool, odds are you would first visit the startup guide from their homepage.
+If you want to know more specific about the tool, you would dive further into their detailed sections.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;If you want to get a shot at making your project to be recognized, give the documentation a priority.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Like what I previously mentioned, this doesn&amp;#8217;t only apply to software projects but to all types of products whether it&amp;#8217;s a power tool, a phone, a calculator, or a book.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If you&amp;#8217;re opening up a package of your shiny new power tool, odds are you would need to get your hands on a manual.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you&amp;#8217;ve just received your new phone, you would find the user manual first to get started.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you want to know all of the capabilities of your calculator, you might want to view the manual.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you newly start with a referential book, you would explore first the preface or the introduction where it introduces the structure of each section.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;As you imagine, the use and importance of technical writing is everywhere.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Though, be wary that there is a flip side on technical writing.
+When there&amp;#8217;s communication, there&amp;#8217;s miscommunication.
+It can be blamed to various things but the point is having outdated or incorrect documentation can also give a bad impression.
+Worse is that it might be better to have no documentation at all.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_importance_of_typography&#34;&gt;Importance of typography&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;How about typography?
+It seems like it&amp;#8217;s a specific requirement for a software project but it can be important in making your content legible.
+No one in their right mind would read the content no matter how well-written if it&amp;#8217;s badly formatted.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Typography can boost the &#34;curb appeal&#34; further by adding greenery to your project.
+It makes all the more pleasing to the eyes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Typography also dictates how long will the user stay reading.
+A badly formatted book will surely receive shorter retention than a badly written one.
+It&amp;#8217;s a bonus if the reader will also get a laugh out of the badly written one.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_inspecting_other_projects&#34;&gt;Inspecting other projects&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;They say that success and advancements stand on the shoulder of giants.
+Let&amp;#8217;s inspect how other software projects did their thing.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Think about most of the software you&amp;#8217;ve used and remember your experience navigating the documentation.
+The million-dollar question is what&amp;#8217;s common between the documentations of popular projects and what good practices can we get from them.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;To get us in the same page, here&amp;#8217;s the list of software I reflected and inspected:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://asciidoctor.org/&#34;&gt;Asciidoctor&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://luatex.org/&#34;&gt;LuaTeX&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ctan.org/pkg/latexmk/&#34;&gt;Latexmk&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://reactjs.org/&#34;&gt;ReactJS&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Anyhow, I try to answer the million-dollar question.
+I put the answers in two lists: one for the content and one for the typography.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_common_attributes_of_documentation_content&#34;&gt;Common attributes of documentation content&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Here&amp;#8217;s what I gathered for reflecting the experience reading through the content.
+I&amp;#8217;ve also observed how they organize their content and lead their users into the different parts of the program.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;They provide examples.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;They don&amp;#8217;t repeat information a lot and gives the appropriate link instead.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;They organize the documents commonly by required level of expertise and general concepts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Most of them (if not all) provide generalized explanations and a detailed version.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Not everything is documented compared to looking at the source, if available (e.g. &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_typographic_best_practices&#34;&gt;Typographic best practices&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Here&amp;#8217;s one for navigating through the documentation and observing the typography.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Optimal characters per line are at least 50 to 80.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Base font size is at least 16px.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Font size and spacing of headers of various levels are distinct.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Consistent use of brand colors (if there&amp;#8217;s any).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use monospace font for code listings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Regarding the best example, I think &lt;a href=&#34;https://reactjs.org/docs/&#34;&gt;React&lt;/a&gt; does this the best both in documentation content and typographic practices.
+Go on, take a gander on it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;imageblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;img src=&#34;../images/the-importance-of-technical-writing-and-typography-in-a-software-project/react-docs.webp&#34; alt=&#34;ReactJS docs&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;title&#34;&gt;Figure 1. ReactJS documentation&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_how_i_practice_these&#34;&gt;How I practice these?&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I won&amp;#8217;t detail much on how to practice technical writing or apply typographic practices since I&amp;#8217;m not a professional.
+Instead, I&amp;#8217;m describing how I apply the two skills.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_plan_the_document_early_on_the_project&#34;&gt;Plan the document early on the project&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;To create good documentation, you must take the time to plan the document.
+Ask yourself what is the ideal document structure for your users, what information do they need to know, and other questions that reflect the value of efficient documentation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Even for a small project, making effort to plan is heavily appreciated.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In my case, I created a document structure for my project.
+Create a README and the &lt;code&gt;docs/&lt;/code&gt; folder for assets (e.g. images, videos).
+I also created a standard template for my README: the abstract, purpose, getting started guide, details, and the license.
+You can see more of the details in my &lt;a href=&#34;https://github.com/foo-dogsquared/personal-style-guides/blob/master/src/projects.adoc&#34;&gt;project template documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_document_only_the_big_things&#34;&gt;Document only the big things&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;By that, I mean prioritize documenting the high-level details like the architecture, data design, implementations, and abstractions.
+You don&amp;#8217;t have to document your whole codebase (and you shouldn&amp;#8217;t).
+Leave out the very specific details and only draw the big picture.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;When you did document the whole thing from its nooks and crannies, you give rise to another problem of constantly switching gears for updating your code and the documentation.
+It&amp;#8217;s a nasty experience that you might as well not document it in the first place.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_create_a_minimal_design_that_focuses_on_readability&#34;&gt;Create a minimal design that focuses on readability&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;For practicing typography, you can create a minimalistic design that focuses on content form.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In my case, I recently started to refer to &lt;a href=&#34;https://practicaltypography.com/&#34;&gt;some&lt;/a&gt; &lt;a href=&#34;https://zellwk.com/blog/why-vertical-rhythms/&#34;&gt;related&lt;/a&gt; &lt;a href=&#34;https://www.paulolyslager.com/optimal-text-layout-line-length/&#34;&gt;resources&lt;/a&gt; and quickly created a &lt;a href=&#34;https://github.com/foo-dogsquared/hugo-theme-contentful&#34;&gt;Hugo theme that focuses on it&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;imageblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;img src=&#34;../images/the-importance-of-technical-writing-and-typography-in-a-software-project/hugo-theme-contentful.webp&#34; alt=&#34;.Hugo theme Contentful&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;title&#34;&gt;Figure 2. Here&amp;#8217;s the resulting Hugo theme - Contentful&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;You could also start by redesigning some of your previous stuff.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I&amp;#8217;ve started to reconfigure my LaTeX templates and it is certainly more readable than before.
+&lt;sup class=&#34;footnote&#34;&gt;[&lt;a id=&#34;_footnoteref_1&#34; class=&#34;footnote&#34; href=&#34;#_footnotedef_1&#34; title=&#34;View footnote.&#34;&gt;1&lt;/a&gt;]&lt;/sup&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;imageblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;img src=&#34;../images/the-importance-of-technical-writing-and-typography-in-a-software-project/latex-lecture-layout.webp&#34; alt=&#34;My current LaTeX lecture layout&#34; width=&#34;450&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;title&#34;&gt;Figure 3. My current LaTeX lecture layout&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;It has improved spacing between paragraphs and non-textblocks, larger font sizes for mathematical texts, and improved font combinations.
+&lt;sup class=&#34;footnote&#34;&gt;[&lt;a id=&#34;_footnoteref_2&#34; class=&#34;footnote&#34; href=&#34;#_footnotedef_2&#34; title=&#34;View footnote.&#34;&gt;2&lt;/a&gt;]&lt;/sup&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_create_a_style_guide_or_a_set_of_guidelines&#34;&gt;Create a style guide or a set of guidelines&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Style guides are used to keep certain aspects of a project to be consistent.
+Certain examples exist on styling your code, general writing, academic writing, citations, design, technical writing, and many others.
+&lt;sup class=&#34;footnote&#34;&gt;[&lt;a id=&#34;_footnoteref_3&#34; class=&#34;footnote&#34; href=&#34;#_footnotedef_3&#34; title=&#34;View footnote.&#34;&gt;3&lt;/a&gt;]&lt;/sup&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;However, all (if not most) style guides are suited for the organization&amp;#8217;s purposes.
+If you aren&amp;#8217;t able to find a suitable one, just create one.
+It doesn&amp;#8217;t have to cover every possible case since it is specifically created for your own (or your team).
+You can steal ideas from multiple style guides, cherry-pick the best of them, and combine it to suit your specific needs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In my case, I created a writing style guide that generally applies to all of my writing and typography works.
+I eventually dedicated &lt;a href=&#34;https://github.com/foo-dogsquared/personal-style-guides&#34;&gt;a repo for my guide styles&lt;/a&gt; to easily refer to it in the future.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;The documentation is a powerful tool for projects.
+They serve as an introduction and make the &#34;curb appeal&#34; for your project.
+Practicing technical writing can amp up your communication skills which can mean the make-or-break moment for your project.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In any case, technical writing must also be presentable.
+Your documentation may have all of the content they need to know but nobody is going to read good content with bad form.
+Typography can help you out in making your content legible and easy to read.
+Applying related typography practices can make cruising through the documentation a pleasant experience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Giving some time for technical writing and typography can surely boost the impression of your project.
+It also adds the bonus of future-proofing your project for yourself and for others.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_further_looking&#34;&gt;Further looking&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_books&#34;&gt;Books&lt;/h3&gt;
+&lt;div class=&#34;dlist&#34;&gt;
+&lt;dl&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://openoregon.pressbooks.pub/aboutwriting/&#34;&gt;&lt;em&gt;About Writing: A Guide&lt;/em&gt; by &#34;Open Oregon Press&#34;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;An open textbook that describes the process of writing for different papers.
+It also gives tips on writing a sufficient body of text that can apply for various papers like academic and research papers.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://practicaltypography.com/&#34;&gt;&lt;em&gt;Practical Typography&lt;/em&gt; by &#34;Matthew Butterick&#34;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;A pay-as-you-want online book that introduces you to typography with practical lessons and descriptions.
+I fully recommend this book if you want to learn more about how to make your content presentable.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://openoregon.pressbooks.pub/technicalwriting/&#34;&gt;&lt;em&gt;Technical Writing&lt;/em&gt; by &#34;Open Oregon Press&#34;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;Another open textbook from the &lt;a href=&#34;https://openoregon.pressbooks.pub/&#34;&gt;Open Oregon Press&lt;/a&gt; that specifically tackles technical writing of various formats from emails, cover letters, and résumé.
+This covers the basics you need to get started on practicing efficient technical writing.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;div class=&#34;dlist&#34;&gt;
+&lt;dl&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://asciidoctor.org/&#34;&gt;Asciidoctor&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;An Asciidoc-based toolchain for publishing documents into various output formats.
+It also expanded upon the original &lt;a href=&#34;http://asciidoc.org/&#34;&gt;Asciidoc&lt;/a&gt; markup language with additional text formatting features.
+It&amp;#8217;s what I mainly use for writing documentation for my projects.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_web&#34;&gt;Web&lt;/h3&gt;
+&lt;div class=&#34;dlist&#34;&gt;
+&lt;dl&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://github.com/noffle/art-of-readme&#34;&gt;&lt;em&gt;Art of README&lt;/em&gt; by &#34;noffle&#34;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;It&amp;#8217;s a GitHub repo detailing on READMEs from what they are to what makes them good.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://www.instructionalsolutions.com/blog/become-a-technical-writer&#34;&gt;&lt;em&gt;How to Become a Technical Writer: A Beginner’s Guide&lt;/em&gt; by &#34;Tom DuPuis&#34;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;An overview for absolute beginners for those who are looking into technical writing.
+Tackles various topics that you should know first and foremost.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://www.writethedocs.org/&#34;&gt;Write the Docs&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;A global community of people who cares about writing documentation.
+They provide good resources for getting started with technical writing on the website.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;footnotes&#34;&gt;
+&lt;hr&gt;
+&lt;div class=&#34;footnote&#34; id=&#34;_footnotedef_1&#34;&gt;
+&lt;a href=&#34;#_footnoteref_1&#34;&gt;1&lt;/a&gt;. My LaTeX templates can be found at &lt;a href=&#34;https://github.com/foo-dogsquared/latex-templates/&#34;&gt;my GitHub account&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&#34;footnote&#34; id=&#34;_footnotedef_2&#34;&gt;
+&lt;a href=&#34;#_footnoteref_2&#34;&gt;2&lt;/a&gt;. If you&amp;#8217;re curious about the font combination, it uses &lt;a href=&#34;https://github.com/adobe-fonts/source-serif-pro&#34;&gt;Source Serif Pro&lt;/a&gt; for roman (normal), &lt;a href=&#34;https://github.com/adobe-fonts/source-sans-pro&#34;&gt;Source Sans Pro&lt;/a&gt; for sans, and &lt;a href=&#34;https://github.com/tonsky/FiraCode&#34;&gt;Fira Code&lt;/a&gt; for monospace.
+&lt;/div&gt;
+&lt;div class=&#34;footnote&#34; id=&#34;_footnotedef_3&#34;&gt;
+&lt;a href=&#34;#_footnoteref_3&#34;&gt;3&lt;/a&gt;. You can see examples of them at my &lt;a href=&#34;https://github.com/foo-dogsquared/personal-style-guides&#34;&gt;personal style guides README&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

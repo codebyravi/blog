@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/</loc>
+    <lastmod>2019-09-28T20:29:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/categories/</loc>
+    <lastmod>2019-09-28T20:29:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/documentation/</loc>
+    <lastmod>2019-09-28T20:29:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/posts/</loc>
+    <lastmod>2019-09-28T20:29:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/categories/software/</loc>
+    <lastmod>2019-09-28T20:29:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/</loc>
+    <lastmod>2019-09-28T20:29:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/posts/what-is-effective-documentation/</loc>
+    <lastmod>2019-09-28T20:29:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/writing/</loc>
+    <lastmod>2019-09-28T20:29:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/feeds/</loc>
+    <lastmod>2019-09-03T15:05:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/asciidoctor/</loc>
+    <lastmod>2019-09-03T13:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/blog/</loc>
+    <lastmod>2019-09-03T13:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/</loc>
+    <lastmod>2019-09-03T13:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/categories/guide/</loc>
+    <lastmod>2019-09-03T13:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/archives/</loc>
+    <lastmod>2019-09-02T02:14:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/posts/a-ricing-starting-checklist/</loc>
+    <lastmod>2019-08-25T18:03:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/foss/</loc>
+    <lastmod>2019-08-25T18:03:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/categories/linux/</loc>
+    <lastmod>2019-08-25T18:03:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/linux/</loc>
+    <lastmod>2019-08-25T18:03:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/ricing/</loc>
+    <lastmod>2019-08-25T18:03:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/posts/the-complete-linux-turnabout/</loc>
+    <lastmod>2019-08-20T20:50:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/posts/a-site-overhaul-has-occurred/</loc>
+    <lastmod>2019-08-15T18:10:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/meta/</loc>
+    <lastmod>2019-08-15T18:10:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/categories/meta/</loc>
+    <lastmod>2019-08-15T18:10:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/self/</loc>
+    <lastmod>2019-08-15T18:10:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/about/</loc>
+    <lastmod>2019-08-15T11:25:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/posts/developing-projects-with-free-resources/</loc>
+    <lastmod>2019-04-30T12:32:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/projects/</loc>
+    <lastmod>2019-04-30T12:32:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/categories/self/</loc>
+    <lastmod>2019-04-30T12:32:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/software-development/</loc>
+    <lastmod>2019-04-30T12:32:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/posts/free-resource-list/</loc>
+    <lastmod>2018-05-01T09:25:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/categories/foss/</loc>
+    <lastmod>2018-05-01T09:25:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/tags/freebies/</loc>
+    <lastmod>2018-05-01T09:25:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foo-dogsquared.github.io/blog/projects/</loc>
+  </url>
+  
+</urlset>

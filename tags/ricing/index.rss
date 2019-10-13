@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ricing on A Hack&#39;s Code</title>
+    <link>https://foo-dogsquared.github.io/blog/tags/ricing/</link>
+    <description>Recent content in ricing on A Hack&#39;s Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>foo.dogsquared@gmail.com (Gabriel Arazas)</managingEditor>
+    <webMaster>foo.dogsquared@gmail.com (Gabriel Arazas)</webMaster>
+    <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright>
+    <lastBuildDate>Sun, 25 Aug 2019 18:03:43 +0800</lastBuildDate>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    
+        <atom:link href="https://foo-dogsquared.github.io/blog/tags/ricing/index.rss" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>A &#39;ricing&#39; starting checklist</title>
+      <link>https://foo-dogsquared.github.io/blog/posts/a-ricing-starting-checklist/</link>
+      <category>foss</category>
+      <category>ricing</category>
+      <category>linux</category>
+      <pubDate>Sun, 25 Aug 2019 18:03:43 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/posts/a-ricing-starting-checklist/</guid>
+      <description>&lt;div id=&#34;preamble&#34;&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I just started ricing at the start of August 2019.
+So I made this list of things you might want to know when
+getting started with ricing your setup so that I couldn&amp;#8217;t
+forget it easily.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Hopefully, it can be useful for you, too.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;admonitionblock note&#34;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&#34;icon&#34;&gt;
+&lt;div class=&#34;title&#34;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&#34;content&#34;&gt;
+The listed programs is mostly applied to
+Linux-based systems.
+You can look for some alternatives if you&amp;#8217;re using
+anything else.
+Sorry, can&amp;#8217;t help much with that.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_a_display_server&#34;&gt;A display server&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In order to fully make use of window programs like
+Firefox, Inkscape, GIMP, Blender, and many others, you have
+to install a display server (or windows server).
+Otherwise, you would be stuck using with a command line.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;admonitionblock note&#34;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&#34;icon&#34;&gt;
+&lt;div class=&#34;title&#34;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&#34;content&#34;&gt;
+This is required for any setup with a graphical
+desktop.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;There are
+&lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_display_servers&#34;&gt;many display servers out there&lt;/a&gt;
+but one of the more popular choices are &lt;a href=&#34;https://www.x.org/wiki/&#34;&gt;Xorg&lt;/a&gt;
+(an implementation of X protocol) and
+&lt;a href=&#34;https://wayland.freedesktop.org/&#34;&gt;Wayland&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;If your hardware is a bit old, I recommend to stick with
+Xorg since it is older thus more developed than Wayland.
+Wayland is still a relatively new technology still in development
+but still keep an eye for it since it is meant to replace X
+with simpler options.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Also, I recommend to look at their respective Arch Linux wiki entry
+if you want to get started.
+(Pretty much I recommend the Arch Linux wiki for most of the
+Linux stuff, really.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_a_desktop_environmentwindow_manager&#34;&gt;A desktop environment/window manager&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In order to have that graphical desktop experience, you
+either need a &lt;em&gt;desktop environment&lt;/em&gt; or a &lt;em&gt;window manager&lt;/em&gt;
+(or even both).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;A window manager does what its name does: manages and controls
+windows from its appearance, content, and behavior.
+There are
+&lt;a href=&#34;https://wiki.archlinux.org/index.php/window_manager&#34;&gt;many choices to choose from&lt;/a&gt;
+but personally I recommend &lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt;, &lt;a href=&#34;https://swaywm.org/&#34;&gt;Sway&lt;/a&gt;,
+&lt;a href=&#34;https://wiki.archlinux.org/index.php/Bspwm&#34;&gt;Bspwm&lt;/a&gt;, and
+&lt;a href=&#34;https://awesomewm.org/&#34;&gt;awesome&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Usually with a window manager, you can extend more stuff with it
+such as a status bar and a lock screen to improve your
+desktop experience.
+Anyways, you should try and experiment with the configuration
+of the window manager of your choosing.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Meanwhile, a desktop environment is a more detailed setup
+built on top of a window manager.
+They have more built-in stuff like a status bar,
+a session manager, a display manager, and a window manager of
+their own.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Like window managers,
+&lt;a href=&#34;https://wiki.archlinux.org/index.php/Desktop_environment#List_of_desktop_environments&#34;&gt;You have many choices&lt;/a&gt;
+here.
+For my personal recommendations, &lt;a href=&#34;https://xfce.org/&#34;&gt;Xfce&lt;/a&gt; and
+&lt;a href=&#34;https://www.kde.org/plasma-desktop&#34;&gt;KDE Plasma&lt;/a&gt; is the
+top-tier choices.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Usually, desktop environments let you replace their
+window manager (or any of their components, if they provided
+one).
+For example, you can install Xfce and replace their built-in
+window manager (&lt;a href=&#34;https://docs.xfce.org/xfce/xfwm4/start&#34;&gt;Xfwm&lt;/a&gt;)
+with i3wm.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Don&amp;#8217;t forget to use some themes for the desktop environment
+of your choice.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;admonitionblock tip&#34;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&#34;icon&#34;&gt;
+&lt;div class=&#34;title&#34;&gt;Tip&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&#34;content&#34;&gt;
+Always check for the requirements of the window manager
+or the desktop environment before trying it.
+It can affect performance or simply won&amp;#8217;t work because
+of incompatibility.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_a_compositor&#34;&gt;A compositor&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;A &lt;a href=&#34;https://en.wikipedia.org/wiki/Compositing_window_manager&#34;&gt;compositor&lt;/a&gt;
+(or a composite manager) is a program that provides
+an off-screen buffer for application windows.
+Thus, repainting and rendering application windows will mitigate
+against common graphical issues such as screen tearing or leaving a
+&#34;trail&#34; or a black block.
+Those issues will be way more obvious when moving your windows or
+using an application with a lot of moving parts on your screen.
+(I can&amp;#8217;t record it since it&amp;#8217;s not present when viewing it in a video.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;It can also provide additional processes with those application
+windows such as adding transitions, adding animations, and
+applying opacity for the windows.
+In other words, it can add pizzazz to your setup.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;admonitionblock tip&#34;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&#34;icon&#34;&gt;
+&lt;div class=&#34;title&#34;&gt;Tip&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&#34;content&#34;&gt;
+Like window managers, always check for the requirements
+before using it.
+Certain compositors can only support certain setups or
+will break under certain conditions in your setup.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;One of the more popular compositors are
+&lt;a href=&#34;https://github.com/yshui/compton&#34;&gt;Compton&lt;/a&gt; for X window system
+and &lt;a href=&#34;https://swaywm.org/&#34;&gt;Sway&lt;/a&gt; for Wayland.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Once you have configured the compositor, you can certainly see
+some notable differences with it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Since I have installed Xorg which is an implementation of the X window
+system, I&amp;#8217;m using Compton.
+The following videos are demonstrations using without and with Compton
+running in the background.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Here&amp;#8217;s a video of my setup using no Compton.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;videoblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;video src=&#34;../images/a-ricing-starting-checklist/compton-less-demo.mp4&#34; width=&#34;100%&#34; controls&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Here&amp;#8217;s another video of my setup using Compton this time.
+Take note that it uses the default config located at
+&lt;code&gt;/etc/xorg/compton.conf&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;videoblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;video src=&#34;../images/a-ricing-starting-checklist/compton-demo.mp4&#34; width=&#34;100%&#34; controls&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_a_display_manager&#34;&gt;A display manager&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;A display manager is a graphical interface for logging in a session.
+It could be pretty useful for those who are using with multiple users
+that might be intimidated with using a TTY as their first screen.
+Most importantly, it could be used for additional swag.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Aside from giving the user login interface a makeover, it can also
+do other things such as authenticating users and session management.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://wiki.archlinux.org/index.php/Display_manager#List_of_display_managers&#34;&gt;There is a list of choices out there&lt;/a&gt;
+and my pick is &lt;a href=&#34;https://github.com/CanonicalLtd/lightdm/&#34;&gt;LightDM&lt;/a&gt;
+since I find it easy to start and it does have a cool login interface.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_gui_library_themes&#34;&gt;GUI library themes&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;GUI library such as &lt;a href=&#34;https://www.gtk.org/&#34;&gt;GTK&lt;/a&gt; and
+&lt;a href=&#34;https://www.qt.io/&#34;&gt;Qt&lt;/a&gt; might have a unified configuration that
+describes the widgets appearance, color scheme, and fonts.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I&amp;#8217;ll be mainly discussing on GTK theming since a lot of widely used
+programs are built with it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.gtk.org/&#34;&gt;GTK&lt;/a&gt; is a cross-platform free and open source GUI library.
+Popular programs built (as of this writing) with the library include
+&lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt;,
+&lt;a href=&#34;https://www.thunderbird.net/&#34;&gt;Thunderbird&lt;/a&gt;,
+&lt;a href=&#34;http://www.gimp.org/&#34;&gt;GIMP&lt;/a&gt;, and &lt;a href=&#34;http://www.inkscape.org/&#34;&gt;Inkscape&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;There are many ways on configuring your color scheme and icon sets but
+I recommend to start with &lt;a href=&#34;http://wiki.lxde.org/en/LXAppearance&#34;&gt;LXAppearance&lt;/a&gt;
+or &lt;a href=&#34;https://github.com/themix-project/oomox&#34;&gt;oomox&lt;/a&gt;.
+Even better you could use them to take a look at a GTK config file and edit
+it yourself afterwards.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;You could also not customize it and leave it to the distro.
+For Arch Linux, it has Raleigh as the default GTK theme which looks
+very dated if you ask me.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;imageblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;img src=&#34;../images/a-ricing-starting-checklist/gtk-raleigh-theme-demo.webp&#34; alt=&#34;GTK Raleigh theme&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;title&#34;&gt;Figure 1. GTK Raleigh theme&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;For my custom configuration, I chose the &lt;a href=&#34;https://github.com/NicoHood/arc-theme&#34;&gt;Arc&lt;/a&gt;
+theme along with its &lt;a href=&#34;https://github.com/NicoHood/arc-icon-theme&#34;&gt;icon set&lt;/a&gt; simply
+because they&amp;#8217;re the popular choice. I also think the darker scheme is pretty
+cool.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;imageblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;img src=&#34;../images/a-ricing-starting-checklist/gtk-arc-darker-theme-demo.webp&#34; alt=&#34;GTK Arc Darker theme&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;title&#34;&gt;Figure 2. GTK Arc Darker theme&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;You can look for more GTK themes at &lt;a href=&#34;https://www.gnome-look.org/&#34;&gt;GNOME Look&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;admonitionblock note&#34;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&#34;icon&#34;&gt;
+&lt;div class=&#34;title&#34;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&#34;content&#34;&gt;
+Not all GTK-built programs follow and apply the configuration.
+You could also set individual themes for each program given that they provided one.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_color_scheme_generator&#34;&gt;Color scheme generator&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Having your own color scheme for your setup is very great.
+However, if you&amp;#8217;re inexperienced with choosing your own colors,
+a color scheme generator can help.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;There are a lot software built for it such as &lt;a href=&#34;https://coolors.co/&#34;&gt;Coolors&lt;/a&gt;,
+&lt;a href=&#34;https://color.adobe.com/create&#34;&gt;Adobe Color&lt;/a&gt;, and
+&lt;a href=&#34;https://colorpalettes.net/&#34;&gt;a color pallete sharing site&lt;/a&gt; but
+there are two particular program that I personally recommend
+because they&amp;#8217;re specifically made for ricing.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_pywal&#34;&gt;pywal&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Enter &lt;a href=&#34;https://github.com/dylanaraps/pywal&#34;&gt;pywal&lt;/a&gt;, a program that easily generates a
+color scheme and replace it with your already existing terminal setup.
+You could also make some templates in order to apply it to other programs like
+&lt;a href=&#34;https://github.com/DaveDavenport/rofi&#34;&gt;rofi&lt;/a&gt;, for example.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;One of the most popular highlights of pywal is that you can generate color schemes
+with images.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;So far, I&amp;#8217;m content with the color scheme generated from
+&lt;a href=&#34;https://www.reddit.com/r/wallpapers/comments/cckpj0/i_made_this_simple_and_clean_drawing_over_the/&#34;&gt;this image&lt;/a&gt;.
+It&amp;#8217;s pretty easy on the eyes and it is also cool to be background image for
+your desktop.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;You can certainly automate it to make it as your theme selector similar
+to how &lt;a href=&#34;https://www.youtube.com/watch?v=Es79N_9BblE&#34;&gt;Luke Smith&lt;/a&gt; did with his setup.
+Or just like how
+&lt;a href=&#34;https://www.reddit.com/r/unixporn/comments/973qcn/i3rofipywal_automated_theme_switching_with_rofi/&#34;&gt;this ricer from &lt;code&gt;/r/unixporn&lt;/code&gt; made rofi to be the theme selector&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_wpgtk&#34;&gt;wpgtk&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;wpgtk, as it is described in its &lt;a href=&#34;https://github.com/deviantfero/wpgtk&#34;&gt;own GitHub page&lt;/a&gt;,
+is a colorscheme, wallpaper and template manager for *nix-based systems.
+It is what it is.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;It can generate and manage different color scheme with
+&lt;a href=&#34;https://github.com/dylanaraps/pywal&#34;&gt;pywal&lt;/a&gt; which I discussed it shortly earlier.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It can manage wallpapers and templates.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Comes with a graphical user interface built with &lt;a href=&#34;https://www.gtk.org/&#34;&gt;GTK&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;It is a pretty cool tool and can turn ricing into a more satisfying
+experience with the convenience it offers.
+I fully recommend looking into this tool if you want a cool color scheme
+generator and a manager for common ricing tasks.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_a_notification_system&#34;&gt;A notification system&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;A status bar is not enough fill up some info especially if it&amp;#8217;s not
+needed that much.
+A desktop notification system could be handy for those situations.
+It can also be useful for immediate feedback that is shortly
+not needed after.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In order to setup a notification system working, you need two components:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;a notifier that sends notifications&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a notification daemon that recieves those notifications&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;admonitionblock note&#34;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&#34;icon&#34;&gt;
+&lt;div class=&#34;title&#34;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&#34;content&#34;&gt;
+If you&amp;#8217;re using with a desktop environment, usually it already
+has a notification system installed. Feel free to skip this section
+if you want.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;For the former, &lt;a href=&#34;https://developer.gnome.org/libnotify/&#34;&gt;&lt;code&gt;libnotify&lt;/code&gt;&lt;/a&gt;
+(with &lt;code&gt;notify-send&lt;/code&gt;) is the toolbelt for that.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;For the latter, you have more choices.
+In my setup, I have &lt;a href=&#34;https://dunst-project.org/&#34;&gt;Dunst&lt;/a&gt; since I see
+it included in a lot of posts at &lt;code&gt;/r/unixporn&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Dunst is also easy to configure and extend.
+You can change the color of the text and background, change the
+appearance for notifications of varying urgency levels, and integrate
+scripts that&amp;#8217;ll run whenever a certain type of notification has been
+recieved.
+It&amp;#8217;s pretty fantastic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;One very useful example in my case is making a notification for screenshots.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I made a script which takes a screenshot which will be binded with the &lt;code&gt;PrintScr&lt;/code&gt; key
+which will be used in i3.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;In i3, running a script takes place in the background so there&amp;#8217;s no way to know
+if the screenshot capture is a success or not unless you send some data to a
+server. Simply sending a notification with &lt;code&gt;notify-send&lt;/code&gt; while running Dunst in the
+background can go a long way.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;imageblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;img src=&#34;../images/a-ricing-starting-checklist/dunst-screenshot-demo.webp&#34; alt=&#34;Using dunst for screenshot notifications&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;title&#34;&gt;Figure 3. Using dunst for screenshot notifications&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I also made it to send notifications for delayed screenshots.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;videoblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;video src=&#34;../images/a-ricing-starting-checklist/dunst-delayed-screenshot-demo.mp4&#34; width=&#34;100%&#34; controls&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;If you&amp;#8217;re curious about the screenshot script, you can find it
+&lt;a href=&#34;https://github.com/foo-dogsquared/dotfiles/blob/master/.scripts/maim-screenshot.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_a_dotfiles_manager&#34;&gt;A dotfiles manager&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Managing your dotfiles can be tricky since different programs have
+different ways on where to store their configuration files.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;admonitionblock note&#34;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&#34;icon&#34;&gt;
+&lt;div class=&#34;title&#34;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&#34;content&#34;&gt;
+Dotfiles simply means your configurations of the installed
+programs. Its name also came from how Linux considers a file/folder
+with a period in front of the name to be hidden (i.e.: &lt;code&gt;.config&lt;/code&gt;,
+&lt;code&gt;.vimrc&lt;/code&gt;, &lt;code&gt;.bashrc&lt;/code&gt;).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;If you would continue with no tool at all, you would most likely:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ulist&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;edit and manage it by hand&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;create a folder where all of your dotfiles are in and symlink it
+in various locations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;create a script that&amp;#8217;ll manage your dotfiles for you ;p&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Depending on your experience, it could be elegant or a nightmare.
+Which is why I totally recommend to use a dotfiles manager.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://wiki.archlinux.org/index.php/Dotfiles&#34;&gt;You have some choices&lt;/a&gt;
+(or you know create one yourself) for managing your dotfiles easily.
+For me, I chose &lt;a href=&#34;https://www.gnu.org/software/stow/&#34;&gt;&lt;code&gt;stow&lt;/code&gt;&lt;/a&gt; since it is
+widely distributed among Linux-based systems. The runner-up is
+&lt;a href=&#34;https://github.com/TheLocehiliosan/yadm&#34;&gt;&lt;code&gt;yadm&lt;/code&gt;&lt;/a&gt; which integrates the
+concepts usually found in Git.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_a_backup_tool&#34;&gt;A backup tool&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Imagine spending time for your setup that you visioned then having
+to put all of that down for a ridiculous reason.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;That&amp;#8217;s what backups are for.
+It&amp;#8217;s a simple thing to backup your dotfiles whether through simple
+copy-pasting it in another storage device, an online drive, or
+a self-hosted server.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;For my dotfiles, I simply use a remote Git repo as my online &#34;backup&#34;.
+I also have the benefit of putting my dotfiles under version control
+which means I can easily experiment with my settings.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_anything_else&#34;&gt;Anything else?&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Your usual programs, of course.
+Your web browser, text editor, terminal, file manager, or even some
+games (granted that they support it on Linux).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;If you feeling adventurous and want to explore more, you can
+&lt;a href=&#34;https://wiki.archlinux.org/index.php/List_of_applications&#34;&gt;view this application list on Arch Linux wiki&lt;/a&gt;.
+Or explore around on GitHub, GitLab, or wherever that is.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;You can also check out
+&lt;a href=&#34;https://wiki.archlinux.org/index.php/Desktop_environment#Custom_environments&#34;&gt;this list of components&lt;/a&gt;
+if you want more stuff for your desktop setup.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;If you want some inspiration for your ricing journey, be sure
+to check out &lt;a href=&#34;https://www.reddit.com/r/unixporn/&#34;&gt;&lt;code&gt;/r/unixporn&lt;/code&gt;&lt;/a&gt;.
+The amount of creativity is overflowing from the community.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I also have my own set of dotfiles that you can check it
+up on &lt;a href=&#34;https://github.com/foo-dogsquared/dotfiles&#34;&gt;my GitHub repo&lt;/a&gt;
+(also have it on &lt;a href=&#34;https://gitlab.com/foo-dogsquared/dotfiles&#34;&gt;GitLab as a mirror&lt;/a&gt;).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_further_looking&#34;&gt;Further looking&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;You can find most of the valuable stuff on &lt;a href=&#34;https://wiki.archlinux.org/&#34;&gt;Arch Linux wiki&lt;/a&gt;.
+Most of the concepts apply even when you&amp;#8217;re not using Arch Linux.
+The documentation is pretty thorough and periodically updated so be sure to
+check it out often.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_web&#34;&gt;Web&lt;/h3&gt;
+&lt;div class=&#34;dlist&#34;&gt;
+&lt;dl&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://wiki.archlinux.org/index.php/Desktop_environment&#34;&gt;&lt;em&gt;Desktop environment&lt;/em&gt; from &lt;strong&gt;Arch Wiki&lt;/strong&gt;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;An Arch Linux wiki entry on desktop environments.
+Features a list of desktop environments with their own
+wiki page and a list of components that make up a
+graphical environment.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://wiki.archlinux.org/index.php/Desktop_notifications&#34;&gt;&lt;em&gt;Desktop notifications&lt;/em&gt; from &lt;strong&gt;Arch Wiki&lt;/strong&gt;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;An entry on desktop notifications on Arch Linux wiki.
+Also contains a list of programs to look out for and
+information on setting up one.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://wiki.archlinux.org/index.php/Display_manager&#34;&gt;&lt;em&gt;Display manager&lt;/em&gt; from &lt;strong&gt;Arch Wiki&lt;/strong&gt;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;An Arch Linux wiki entry on display managers.
+Features a list of display managers with their own
+wiki page.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://wiki.archlinux.org/index.php/Dotfiles&#34;&gt;&lt;em&gt;Dotfiles&lt;/em&gt; from &lt;strong&gt;Arch Wiki&lt;/strong&gt;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;It&amp;#8217;s a page on Arch Wiki that shortly describes about dotfiles.
+Also features a list of programs that can help you process and
+manage your dotfiles.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://github.com/addy-dclxvi/i3-starterpack&#34;&gt;&lt;em&gt;i3-starterpack&lt;/em&gt; GitHub repo by &lt;strong&gt;addy-dclxvi&lt;/strong&gt;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;A great start on starting with your i3 setup and can also teach
+a little of bit of ricing.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html&#34;&gt;&lt;em&gt;Using GNU Stow to Manage Your Dotfiles&lt;/em&gt; by &lt;strong&gt;Brandon Invergo&lt;/strong&gt;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;It&amp;#8217;s a short but sweet article on &lt;a href=&#34;https://www.gnu.org/software/stow/&#34;&gt;GNU Stow&lt;/a&gt;,
+a symbolic link farm manager suitable for controlling configuration files.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://wiki.archlinux.org/index.php/window_manager&#34;&gt;&lt;em&gt;Window manager&lt;/em&gt; from &lt;strong&gt;Arch Wiki&lt;/strong&gt;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;An Arch Linux wiki entry on window managers.
+Provides a list of window managers with their own
+wiki entry that documents the installation and configuration
+process.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_video&#34;&gt;Video&lt;/h3&gt;
+&lt;div class=&#34;dlist&#34;&gt;
+&lt;dl&gt;
+&lt;dt class=&#34;hdlist1&#34;&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf&#34;&gt;i3wm series from &lt;strong&gt;Code Cast&lt;/strong&gt;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;A fantastic video series by Code Cast on getting started with i3 and ricing.
+It&amp;#8217;s a bit outdated (heads up for the part where you setup for rofi)
+but most of the concepts still apply today.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

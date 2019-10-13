@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on A Hack&#39;s Code</title>
+    <link>https://foo-dogsquared.github.io/blog/tags/</link>
+    <description>Recent content in Tags on A Hack&#39;s Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>foo.dogsquared@gmail.com (Gabriel Arazas)</managingEditor>
+    <webMaster>foo.dogsquared@gmail.com (Gabriel Arazas)</webMaster>
+    <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright>
+    <lastBuildDate>Sat, 28 Sep 2019 20:29:58 +0800</lastBuildDate>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    
+        <atom:link href="https://foo-dogsquared.github.io/blog/tags/index.rss" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>documentation</title>
+      <link>https://foo-dogsquared.github.io/blog/tags/documentation/</link>
+      <pubDate>Sat, 28 Sep 2019 20:29:58 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/tags/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://foo-dogsquared.github.io/blog/tags/writing/</link>
+      <pubDate>Sat, 28 Sep 2019 20:29:58 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asciidoctor</title>
+      <link>https://foo-dogsquared.github.io/blog/tags/asciidoctor/</link>
+      <pubDate>Tue, 03 Sep 2019 13:07:43 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/tags/asciidoctor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://foo-dogsquared.github.io/blog/tags/blog/</link>
+      <pubDate>Tue, 03 Sep 2019 13:07:43 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foss</title>
+      <link>https://foo-dogsquared.github.io/blog/tags/foss/</link>
+      <pubDate>Sun, 25 Aug 2019 18:03:43 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/tags/foss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://foo-dogsquared.github.io/blog/tags/linux/</link>
+      <pubDate>Sun, 25 Aug 2019 18:03:43 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ricing</title>
+      <link>https://foo-dogsquared.github.io/blog/tags/ricing/</link>
+      <pubDate>Sun, 25 Aug 2019 18:03:43 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/tags/ricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta</title>
+      <link>https://foo-dogsquared.github.io/blog/tags/meta/</link>
+      <pubDate>Thu, 15 Aug 2019 18:10:07 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self</title>
+      <link>https://foo-dogsquared.github.io/blog/tags/self/</link>
+      <pubDate>Thu, 15 Aug 2019 18:10:07 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/tags/self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://foo-dogsquared.github.io/blog/tags/projects/</link>
+      <pubDate>Tue, 30 Apr 2019 12:32:40 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

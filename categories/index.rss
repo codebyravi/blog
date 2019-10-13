@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on A Hack&#39;s Code</title>
+    <link>https://foo-dogsquared.github.io/blog/categories/</link>
+    <description>Recent content in Categories on A Hack&#39;s Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>foo.dogsquared@gmail.com (Gabriel Arazas)</managingEditor>
+    <webMaster>foo.dogsquared@gmail.com (Gabriel Arazas)</webMaster>
+    <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright>
+    <lastBuildDate>Sat, 28 Sep 2019 20:29:58 +0800</lastBuildDate>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    
+        <atom:link href="https://foo-dogsquared.github.io/blog/categories/index.rss" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>software</title>
+      <link>https://foo-dogsquared.github.io/blog/categories/software/</link>
+      <pubDate>Sat, 28 Sep 2019 20:29:58 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/categories/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guide</title>
+      <link>https://foo-dogsquared.github.io/blog/categories/guide/</link>
+      <pubDate>Tue, 03 Sep 2019 13:07:43 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/categories/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://foo-dogsquared.github.io/blog/categories/linux/</link>
+      <pubDate>Sun, 25 Aug 2019 18:03:43 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta</title>
+      <link>https://foo-dogsquared.github.io/blog/categories/meta/</link>
+      <pubDate>Thu, 15 Aug 2019 18:10:07 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/categories/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self</title>
+      <link>https://foo-dogsquared.github.io/blog/categories/self/</link>
+      <pubDate>Tue, 30 Apr 2019 12:32:40 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/categories/self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foss</title>
+      <link>https://foo-dogsquared.github.io/blog/categories/foss/</link>
+      <pubDate>Tue, 01 May 2018 09:25:57 +0800</pubDate>
+      <author>foo.dogsquared@gmail.com (Gabriel Arazas)</author>
+      <guid>https://foo-dogsquared.github.io/blog/categories/foss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

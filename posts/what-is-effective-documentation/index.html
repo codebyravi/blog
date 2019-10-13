@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What is effective documentation :: A Hack&#39;s Code — Computer Engineering Student</title>
+
+<meta name="author" content="Gabriel Arazas">
+<meta name="application-name" content="A Hack&#39;s Code">
+<meta name="description" content="I&#8217;m beginning to be more oriented on technical writing.">
+<meta name="robots" content="noodp"/>
+<meta name="generator" content="Hugo 0.58.3" />
+<meta name="referrer" content="no-referrer" />
+<meta name="format-detection" content="telephone=no">
+<meta name="keywords" content="Gabriel Arazas, foo-dogsquared, blog, computer, mathematics">
+<link rel="noopener me" href="https://twitter.com/foo_dogsquared" />
+<link rel="noopener me" href="https://github.com/foo-dogsquared/" />
+<link rel="noopener me" href="https://gitlab.com/foo-dogsquared/" />
+<link rel="noopener me" href="https://keybase.io/foo_dogsquared" />
+
+<link rel="canonical" href="https://foo-dogsquared.github.io/blog/posts/what-is-effective-documentation/" />
+
+
+<link rel="icon" href="https://foo-dogsquared.github.io/blog/logo.png" />
+
+<link rel="stylesheet" href="https://foo-dogsquared.github.io/blog/scss/main.min.f78ae99616bfd849b55871695ce8044c222610a1d11eac84e72d6e4bfca983a871a83d16c95bc68cf9bd5e1f2dbad054a85d9f0b5bfacf18e2454d845a2fb389.css" integrity="sha512-94rplha/2Em1WHFpXOgETCImEKHRHqyE5y1uS/ypg6hxqD0WyVvGjPm9Xh8tutBUqF2fC1v6zxjiRU2EWi&#43;ziQ==">
+<script>
+
+const theme = window.localStorage.getItem('theme'); 
+if (theme && theme !== "1") {
+    document.documentElement.classList.add('theme-' + theme);
+}
+</script>
+
+
+</head>
+<body>
+  <main class="site__content">
+    <div class="site__page">
+  <nav class="site__breadcrumbs">
+    <a class="site__breadcrumb" href="https://foo-dogsquared.github.io/blog/">A Hack&#39;s Code</a><a class="site__breadcrumb" href="https://foo-dogsquared.github.io/blog/posts/">Posts</a><a class="site__breadcrumb--active" href="https://foo-dogsquared.github.io/blog/posts/what-is-effective-documentation/">What is effective documentation</a>
+</nav>
+
+<h1 class="page__title">What is effective documentation</h1>
+  <div class="page__meta">
+    <p>
+    
+    <span class="page__date">
+    on <time datetime="2019-09-28T20:29:58&#43;08:00">2019-09-28</time>
+    
+    </span>
+    </p>
+
+    
+
+    
+    </div>
+</div>
+
+
+</div>
+
+<article class="page__content" ><img src="https://foo-dogsquared.github.io/blog/posts/images/the-importance-of-technical-writing-and-typography-in-a-software-project/cover.webp" class="page__cover" /><div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>I&#8217;m beginning to be more oriented on technical writing.
+In fact, I&#8217;m starting to consider to take on technical writing as a career.
+So I ask myself related to the very thing that makes me appreciate technical writing: documentation.
+That question is "What is effective documentation?"</p>
+</div>
+<div class="paragraph">
+<p>As I remember from <a href="https://www.youtube.com/watch?v=BAJ8F7yQz64">a presentation</a>, there&#8217;s this quote that rings very well.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+Documentation is the “curb appeal” of your software.
+</blockquote>
+<div class="attribution">
+&#8212; Dan Allen<br>
+<cite>Antora: Documentation Sites for Software Teams</cite>
+</div>
+</div>
+<div class="paragraph">
+<p>Despite the saying, it applies to all types of projects.
+It is the "curb appeal" of your project.</p>
+</div>
+<div class="paragraph">
+<p>Let&#8217;s take a shallow dive on the deep ocean of documentation and inspect what I think mainly builds it: technical writing and typography.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_importance_of_technical_writing">Importance of technical writing</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Technical writing is an often-overlooked process for open source programs.
+This is reflected in <a href="https://opensourcesurvey.org/2017/">GitHub&#8217;s 2017 survey on open source</a> (which is the latest version as of 2019-09-20) where incomplete and/or confusing documentation is the biggest hurdle.</p>
+</div>
+<div class="paragraph">
+<p>What&#8217;s common among successful software projects like <a href="https://asciidoctor.org/">Asciidoctor</a>, <a href="https://reactjs.org/">React</a>, <a href="https://www.python.org/">Python</a>, <a href="https://laravel.com/">Laravel</a>, <a href="https://www.mozilla.org/en-US/firefox/">Firefox</a>, <a href="https://www.latex-project.org/">LaTeX</a>, <a href="https://www.google.com/chrome/browser/index.html">Chrome</a>, and <a href="https://www.archlinux.org/">Arch Linux</a> is the accessible and thorough documentation that describes enough details for the new and the seasoned users.</p>
+</div>
+<div class="paragraph">
+<p>As such, one of the leading importance of technical writing is <strong>communication</strong>.
+Without the work of technical writing means no communication.
+Non-existent communication means no incentive to look for your project.
+It&#8217;s that simple.</p>
+</div>
+<div class="paragraph">
+<p>The documentation is where the first impression lies for your potential users.
+Despite the saying of judging the book by its cover, the documentation can reflect the quality of the project.
+Having non-existent or bad documentation gives the impression that your project is bad no matter how well-crafted or optimized your code.</p>
+</div>
+<div class="paragraph">
+<p>The documentation is also where the lasting impression goes for the veterans and potential contributors.
+If the users see the project docs is working as intended and well-maintained then it&#8217;s more likely for them to participate and contribute through bug issues and code improvements.</p>
+</div>
+<div class="paragraph">
+<p>If you&#8217;re learning another framework or a tool, odds are you would first visit the startup guide from their homepage.
+If you want to know more specific about the tool, you would dive further into their detailed sections.</p>
+</div>
+<div class="paragraph">
+<p>If you want to get a shot at making your project to be recognized, give the documentation a priority.</p>
+</div>
+<div class="paragraph">
+<p>Like what I previously mentioned, this doesn&#8217;t only apply to software projects but to all types of products whether it&#8217;s a power tool, a phone, a calculator, or a book.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>If you&#8217;re opening up a package of your shiny new power tool, odds are you would need to get your hands on a manual.</p>
+</li>
+<li>
+<p>If you&#8217;ve just received your new phone, you would find the user manual first to get started.</p>
+</li>
+<li>
+<p>If you want to know all of the capabilities of your calculator, you might want to view the manual.</p>
+</li>
+<li>
+<p>If you newly start with a referential book, you would explore first the preface or the introduction where it introduces the structure of each section.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>As you imagine, the use and importance of technical writing is everywhere.</p>
+</div>
+<div class="paragraph">
+<p>Though, be wary that there is a flip side on technical writing.
+When there&#8217;s communication, there&#8217;s miscommunication.
+It can be blamed to various things but the point is having outdated or incorrect documentation can also give a bad impression.
+Worse is that it might be better to have no documentation at all.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_importance_of_typography">Importance of typography</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>How about typography?
+It seems like it&#8217;s a specific requirement for a software project but it can be important in making your content legible.
+No one in their right mind would read the content no matter how well-written if it&#8217;s badly formatted.</p>
+</div>
+<div class="paragraph">
+<p>Typography can boost the "curb appeal" further by adding greenery to your project.
+It makes all the more pleasing to the eyes.</p>
+</div>
+<div class="paragraph">
+<p>Typography also dictates how long will the user stay reading.
+A badly formatted book will surely receive shorter retention than a badly written one.
+It&#8217;s a bonus if the reader will also get a laugh out of the badly written one.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_inspecting_other_projects">Inspecting other projects</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>They say that success and advancements stand on the shoulder of giants.
+Let&#8217;s inspect how other software projects did their thing.</p>
+</div>
+<div class="paragraph">
+<p>Think about most of the software you&#8217;ve used and remember your experience navigating the documentation.
+The million-dollar question is what&#8217;s common between the documentations of popular projects and what good practices can we get from them.</p>
+</div>
+<div class="paragraph">
+<p>To get us in the same page, here&#8217;s the list of software I reflected and inspected:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.archlinux.org/">Arch Linux</a></p>
+</li>
+<li>
+<p><a href="https://asciidoctor.org/">Asciidoctor</a></p>
+</li>
+<li>
+<p><a href="http://luatex.org/">LuaTeX</a></p>
+</li>
+<li>
+<p><a href="https://www.ctan.org/pkg/latexmk/">Latexmk</a></p>
+</li>
+<li>
+<p><a href="https://www.python.org/">Python</a></p>
+</li>
+<li>
+<p><a href="https://reactjs.org/">ReactJS</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Anyhow, I try to answer the million-dollar question.
+I put the answers in two lists: one for the content and one for the typography.</p>
+</div>
+<div class="sect2">
+<h3 id="_common_attributes_of_documentation_content">Common attributes of documentation content</h3>
+<div class="paragraph">
+<p>Here&#8217;s what I gathered for reflecting the experience reading through the content.
+I&#8217;ve also observed how they organize their content and lead their users into the different parts of the program.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>They provide examples.</p>
+</li>
+<li>
+<p>They don&#8217;t repeat information a lot and gives the appropriate link instead.</p>
+</li>
+<li>
+<p>They organize the documents commonly by required level of expertise and general concepts.</p>
+</li>
+<li>
+<p>Most of them (if not all) provide generalized explanations and a detailed version.</p>
+</li>
+<li>
+<p>Not everything is documented compared to looking at the source, if available (e.g. <a href="https://www.python.org/">Python</a>).</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_typographic_best_practices">Typographic best practices</h3>
+<div class="paragraph">
+<p>Here&#8217;s one for navigating through the documentation and observing the typography.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Optimal characters per line are at least 50 to 80.</p>
+</li>
+<li>
+<p>Base font size is at least 16px.</p>
+</li>
+<li>
+<p>Font size and spacing of headers of various levels are distinct.</p>
+</li>
+<li>
+<p>Consistent use of brand colors (if there&#8217;s any).</p>
+</li>
+<li>
+<p>Use monospace font for code listings.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Regarding the best example, I think <a href="https://reactjs.org/docs/">React</a> does this the best both in documentation content and typographic practices.
+Go on, take a gander on it.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="../images/the-importance-of-technical-writing-and-typography-in-a-software-project/react-docs.webp" alt="ReactJS docs">
+</div>
+<div class="title">Figure 1. ReactJS documentation</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_how_i_practice_these">How I practice these?</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I won&#8217;t detail much on how to practice technical writing or apply typographic practices since I&#8217;m not a professional.
+Instead, I&#8217;m describing how I apply the two skills.</p>
+</div>
+<div class="sect2">
+<h3 id="_plan_the_document_early_on_the_project">Plan the document early on the project</h3>
+<div class="paragraph">
+<p>To create good documentation, you must take the time to plan the document.
+Ask yourself what is the ideal document structure for your users, what information do they need to know, and other questions that reflect the value of efficient documentation.</p>
+</div>
+<div class="paragraph">
+<p>Even for a small project, making effort to plan is heavily appreciated.</p>
+</div>
+<div class="paragraph">
+<p>In my case, I created a document structure for my project.
+Create a README and the <code>docs/</code> folder for assets (e.g. images, videos).
+I also created a standard template for my README: the abstract, purpose, getting started guide, details, and the license.
+You can see more of the details in my <a href="https://github.com/foo-dogsquared/personal-style-guides/blob/master/src/projects.adoc">project template documentation</a>.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_document_only_the_big_things">Document only the big things</h3>
+<div class="paragraph">
+<p>By that, I mean prioritize documenting the high-level details like the architecture, data design, implementations, and abstractions.
+You don&#8217;t have to document your whole codebase (and you shouldn&#8217;t).
+Leave out the very specific details and only draw the big picture.</p>
+</div>
+<div class="paragraph">
+<p>When you did document the whole thing from its nooks and crannies, you give rise to another problem of constantly switching gears for updating your code and the documentation.
+It&#8217;s a nasty experience that you might as well not document it in the first place.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_create_a_minimal_design_that_focuses_on_readability">Create a minimal design that focuses on readability</h3>
+<div class="paragraph">
+<p>For practicing typography, you can create a minimalistic design that focuses on content form.</p>
+</div>
+<div class="paragraph">
+<p>In my case, I recently started to refer to <a href="https://practicaltypography.com/">some</a> <a href="https://zellwk.com/blog/why-vertical-rhythms/">related</a> <a href="https://www.paulolyslager.com/optimal-text-layout-line-length/">resources</a> and quickly created a <a href="https://github.com/foo-dogsquared/hugo-theme-contentful">Hugo theme that focuses on it</a>.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="../images/the-importance-of-technical-writing-and-typography-in-a-software-project/hugo-theme-contentful.webp" alt=".Hugo theme Contentful">
+</div>
+<div class="title">Figure 2. Here&#8217;s the resulting Hugo theme - Contentful</div>
+</div>
+<div class="paragraph">
+<p>You could also start by redesigning some of your previous stuff.</p>
+</div>
+<div class="paragraph">
+<p>I&#8217;ve started to reconfigure my LaTeX templates and it is certainly more readable than before.
+<sup class="footnote">[<a id="_footnoteref_1" class="footnote" href="#_footnotedef_1" title="View footnote.">1</a>]</sup></p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="../images/the-importance-of-technical-writing-and-typography-in-a-software-project/latex-lecture-layout.webp" alt="My current LaTeX lecture layout" width="450">
+</div>
+<div class="title">Figure 3. My current LaTeX lecture layout</div>
+</div>
+<div class="paragraph">
+<p>It has improved spacing between paragraphs and non-textblocks, larger font sizes for mathematical texts, and improved font combinations.
+<sup class="footnote">[<a id="_footnoteref_2" class="footnote" href="#_footnotedef_2" title="View footnote.">2</a>]</sup></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_create_a_style_guide_or_a_set_of_guidelines">Create a style guide or a set of guidelines</h3>
+<div class="paragraph">
+<p>Style guides are used to keep certain aspects of a project to be consistent.
+Certain examples exist on styling your code, general writing, academic writing, citations, design, technical writing, and many others.
+<sup class="footnote">[<a id="_footnoteref_3" class="footnote" href="#_footnotedef_3" title="View footnote.">3</a>]</sup></p>
+</div>
+<div class="paragraph">
+<p>However, all (if not most) style guides are suited for the organization&#8217;s purposes.
+If you aren&#8217;t able to find a suitable one, just create one.
+It doesn&#8217;t have to cover every possible case since it is specifically created for your own (or your team).
+You can steal ideas from multiple style guides, cherry-pick the best of them, and combine it to suit your specific needs.</p>
+</div>
+<div class="paragraph">
+<p>In my case, I created a writing style guide that generally applies to all of my writing and typography works.
+I eventually dedicated <a href="https://github.com/foo-dogsquared/personal-style-guides">a repo for my guide styles</a> to easily refer to it in the future.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_conclusion">Conclusion</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The documentation is a powerful tool for projects.
+They serve as an introduction and make the "curb appeal" for your project.
+Practicing technical writing can amp up your communication skills which can mean the make-or-break moment for your project.</p>
+</div>
+<div class="paragraph">
+<p>In any case, technical writing must also be presentable.
+Your documentation may have all of the content they need to know but nobody is going to read good content with bad form.
+Typography can help you out in making your content legible and easy to read.
+Applying related typography practices can make cruising through the documentation a pleasant experience.</p>
+</div>
+<div class="paragraph">
+<p>Giving some time for technical writing and typography can surely boost the impression of your project.
+It also adds the bonus of future-proofing your project for yourself and for others.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_further_looking">Further looking</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_books">Books</h3>
+<div class="dlist">
+<dl>
+<dt class="hdlist1"><a href="https://openoregon.pressbooks.pub/aboutwriting/"><em>About Writing: A Guide</em> by "Open Oregon Press"</a></dt>
+<dd>
+<p>An open textbook that describes the process of writing for different papers.
+It also gives tips on writing a sufficient body of text that can apply for various papers like academic and research papers.</p>
+</dd>
+<dt class="hdlist1"><a href="https://practicaltypography.com/"><em>Practical Typography</em> by "Matthew Butterick"</a></dt>
+<dd>
+<p>A pay-as-you-want online book that introduces you to typography with practical lessons and descriptions.
+I fully recommend this book if you want to learn more about how to make your content presentable.</p>
+</dd>
+<dt class="hdlist1"><a href="https://openoregon.pressbooks.pub/technicalwriting/"><em>Technical Writing</em> by "Open Oregon Press"</a></dt>
+<dd>
+<p>Another open textbook from the <a href="https://openoregon.pressbooks.pub/">Open Oregon Press</a> that specifically tackles technical writing of various formats from emails, cover letters, and résumé.
+This covers the basics you need to get started on practicing efficient technical writing.</p>
+</dd>
+</dl>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_tools">Tools</h3>
+<div class="dlist">
+<dl>
+<dt class="hdlist1"><a href="https://asciidoctor.org/">Asciidoctor</a></dt>
+<dd>
+<p>An Asciidoc-based toolchain for publishing documents into various output formats.
+It also expanded upon the original <a href="http://asciidoc.org/">Asciidoc</a> markup language with additional text formatting features.
+It&#8217;s what I mainly use for writing documentation for my projects.</p>
+</dd>
+</dl>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_web">Web</h3>
+<div class="dlist">
+<dl>
+<dt class="hdlist1"><a href="https://github.com/noffle/art-of-readme"><em>Art of README</em> by "noffle"</a></dt>
+<dd>
+<p>It&#8217;s a GitHub repo detailing on READMEs from what they are to what makes them good.</p>
+</dd>
+<dt class="hdlist1"><a href="https://www.instructionalsolutions.com/blog/become-a-technical-writer"><em>How to Become a Technical Writer: A Beginner’s Guide</em> by "Tom DuPuis"</a></dt>
+<dd>
+<p>An overview for absolute beginners for those who are looking into technical writing.
+Tackles various topics that you should know first and foremost.</p>
+</dd>
+<dt class="hdlist1"><a href="https://www.writethedocs.org/">Write the Docs</a></dt>
+<dd>
+<p>A global community of people who cares about writing documentation.
+They provide good resources for getting started with technical writing on the website.</p>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+<div id="footnotes">
+<hr>
+<div class="footnote" id="_footnotedef_1">
+<a href="#_footnoteref_1">1</a>. My LaTeX templates can be found at <a href="https://github.com/foo-dogsquared/latex-templates/">my GitHub account</a>.
+</div>
+<div class="footnote" id="_footnotedef_2">
+<a href="#_footnoteref_2">2</a>. If you&#8217;re curious about the font combination, it uses <a href="https://github.com/adobe-fonts/source-serif-pro">Source Serif Pro</a> for roman (normal), <a href="https://github.com/adobe-fonts/source-sans-pro">Source Sans Pro</a> for sans, and <a href="https://github.com/tonsky/FiraCode">Fira Code</a> for monospace.
+</div>
+<div class="footnote" id="_footnotedef_3">
+<a href="#_footnoteref_3">3</a>. You can see examples of them at my <a href="https://github.com/foo-dogsquared/personal-style-guides">personal style guides README</a>.
+</div>
+</div>
+
+</article>
+
+
+    
+
+  </main>
+  
+  <footer class="site__footer">
+    <div class="footer__links"><a rel="me" class="footer__link" href="https://github.com/foo-dogsquared/">GitHub</a><a rel="me" class="footer__link" href="https://gitlab.com/foo-dogsquared/">GitLab</a><a rel="me" class="footer__link" href="https://keybase.io/foo_dogsquared">Keybase</a><a rel="me" class="footer__link" href="https://twitter.com/foo_dogsquared">Twitter</a></div>
+    
+    
+    <p class="footer__sign">Unless explicitly stated, all content released here are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.</p></footer>
+    
+
+    
+    <script>
+        window.addEventListener("load", function () {
+            const script = document.createElement("script");
+            script.src = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+            script.async = true
+
+            document.head.appendChild(script);
+        })
+    </script>
+
+
+<script defer type="text/javascript" src="https://foo-dogsquared.github.io/blog/js/script.659b08fa6867590fcceb2f6d10da311d88dfb5471559391b11173f54932cca9a9748c443b8e834335f5a02752130f3652672f587486c4ec496c49f08e85b6130.js" integrity="sha512-ZZsI&#43;mhnWQ/M6y9tENoxHYjftUcVWTkbERc/VJMsypqXSMRDuOg0M19aAnUhMPNlJnL1h0hsTsSWxJ8I6FthMA=="></script>
+
+
+
+</body>
+</html>
